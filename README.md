@@ -10,3 +10,7 @@ http://pytube.org/
 
 --a site for talks about python
 
+http://arxiv.org/abs/1606.03476
+
+--an interesting paper about Generative Adversarial Imitation Learning
+
