@@ -14,3 +14,6 @@ http://arxiv.org/abs/1606.03476
 
 --an interesting paper about Generative Adversarial Imitation Learning
 
+http://inhabitat.com/video-nikola-teslas-dream-is-finally-a-reality-with-wi-fi-powered-electronics/
+
+--ambient backscatter - completely battery free technology
