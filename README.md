@@ -21,3 +21,7 @@ http://inhabitat.com/video-nikola-teslas-dream-is-finally-a-reality-with-wi-fi-p
 https://www.opendatascience.com/
 
 --odsc blog posts
+
+https://www.ices.utexas.edu/about/news/350/
+
+--Navier-Stokes equations explained
