@@ -25,3 +25,7 @@ https://www.opendatascience.com/
 https://www.ices.utexas.edu/about/news/350/
 
 --Navier-Stokes equations explained
+
+http://www.darpa.mil/news-events/2016-06-17
+
+--darpa is funding machine learning algorithms that generate machine learning algorithms.
