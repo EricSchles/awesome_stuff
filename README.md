@@ -32,3 +32,7 @@ http://www.darpa.mil/news-events/2016-06-17
 
 http://arxiv.org/abs/1606.05340
 --proof that deep networks can expose nonlinearities in nonlinear space, translating them into flat fields.
+
+https://www.oreilly.com/learning/hello-tensorflow
+
+--a great intro to tensorflow
