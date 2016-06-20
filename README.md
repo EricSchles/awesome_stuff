@@ -36,3 +36,7 @@ http://arxiv.org/abs/1606.05340
 https://www.oreilly.com/learning/hello-tensorflow
 
 --a great intro to tensorflow
+
+https://www.facebook.com/quartznews/videos/1202874983079535/
+
+--an ai algorithm that figures out what sound an object should make
