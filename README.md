@@ -29,3 +29,6 @@ https://www.ices.utexas.edu/about/news/350/
 http://www.darpa.mil/news-events/2016-06-17
 
 --darpa is funding machine learning algorithms that generate machine learning algorithms.
+
+http://arxiv.org/abs/1606.05340
+--proof that deep networks can expose nonlinearities in nonlinear space, translating them into flat fields.
