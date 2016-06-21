@@ -77,3 +77,7 @@ http://tinkersphere.com/stores
 http://blog.smola.org/post/145983963411/leaving-cmu
 
 --ml guy heads to amazon
+
+http://exploreflask.readthedocs.io/en/latest/views.html
+
+--interesting set of patterns for flask
