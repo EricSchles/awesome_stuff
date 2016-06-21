@@ -101,3 +101,7 @@ http://stackoverflow.com/questions/558518/how-can-i-serialize-an-object-to-json-
 https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
 
 -- getting location from browser
+
+https://pypi.python.org/pypi/honcho
+
+--foreman clone in python
