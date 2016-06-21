@@ -73,3 +73,7 @@ http://www.oreilly.com/programming/free/files/functional-programming-python.pdf
 http://tinkersphere.com/stores
 
 --where to get a raspberry pi in nyc 
+
+http://blog.smola.org/post/145983963411/leaving-cmu
+
+--ml guy heads to amazon
