@@ -81,3 +81,23 @@ http://blog.smola.org/post/145983963411/leaving-cmu
 http://exploreflask.readthedocs.io/en/latest/views.html
 
 --interesting set of patterns for flask
+
+http://stackoverflow.com/questions/29987323/how-do-i-send-data-from-js-to-python-with-flask
+
+--flask from jquery
+
+https://code.jquery.com/
+
+--jquery cdn
+
+http://stackoverflow.com/questions/1034621/get-current-url-in-web-browser
+
+-- get current url from browser
+
+http://stackoverflow.com/questions/558518/how-can-i-serialize-an-object-to-json-in-javascript
+
+--object serialization in javascript
+
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
+
+-- getting location from browser
