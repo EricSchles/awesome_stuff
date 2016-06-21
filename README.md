@@ -109,3 +109,7 @@ https://pypi.python.org/pypi/honcho
 http://stackoverflow.com/questions/16086962/how-to-get-a-time-zone-from-a-location-using-latitude-and-longitude-coordinates
 
 --an interesting discussion about timezones
+
+https://teamtreehouse.com/community/nested-loops-in-flask-how-to-iterate-and-make-nested-lists
+
+-- nested forloops in flask
