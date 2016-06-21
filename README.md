@@ -105,3 +105,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
 https://pypi.python.org/pypi/honcho
 
 --foreman clone in python
+
+http://stackoverflow.com/questions/16086962/how-to-get-a-time-zone-from-a-location-using-latitude-and-longitude-coordinates
+
+--an interesting discussion about timezones
