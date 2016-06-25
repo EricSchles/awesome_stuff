@@ -113,3 +113,7 @@ http://stackoverflow.com/questions/16086962/how-to-get-a-time-zone-from-a-locati
 https://teamtreehouse.com/community/nested-loops-in-flask-how-to-iterate-and-make-nested-lists
 
 -- nested forloops in flask
+
+https://medium.com/@handaru/build-recommendation-engine-using-graph-cbd6d8732e46#.y6b7vd4g3
+
+--recommender engine with graphs
