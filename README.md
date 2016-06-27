@@ -117,3 +117,7 @@ https://teamtreehouse.com/community/nested-loops-in-flask-how-to-iterate-and-mak
 https://medium.com/@handaru/build-recommendation-engine-using-graph-cbd6d8732e46#.y6b7vd4g3
 
 --recommender engine with graphs
+
+http://www.cs.yale.edu/homes/perlis-alan/quotes.html
+
+--platitudes about programming
