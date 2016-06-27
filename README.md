@@ -125,3 +125,9 @@ http://www.cs.yale.edu/homes/perlis-alan/quotes.html
 https://www.youtube.com/watch?v=3N__tvmZrzc
 
 --programming languages class
+
+http://stackoverflow.com/questions/32311366/alembic-util-command-error-cant-find-identifier
+
+https://devcenter.heroku.com/articles/heroku-postgresql
+
+--how to update your database with migrations when flask-migrate fails to work on heroku
