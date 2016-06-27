@@ -121,3 +121,7 @@ https://medium.com/@handaru/build-recommendation-engine-using-graph-cbd6d8732e46
 http://www.cs.yale.edu/homes/perlis-alan/quotes.html
 
 --platitudes about programming
+
+https://www.youtube.com/watch?v=3N__tvmZrzc
+
+--programming languages class
