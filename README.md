@@ -131,3 +131,7 @@ http://stackoverflow.com/questions/32311366/alembic-util-command-error-cant-find
 https://devcenter.heroku.com/articles/heroku-postgresql
 
 --how to update your database with migrations when flask-migrate fails to work on heroku
+
+http://www.techinsider.io/modafinil-is-an-effective-cognitive-enhancement-nootropic-2016-6?utm_content=buffer4e362&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti
+
+--an interesting debate on intelligence enhancing drugs
