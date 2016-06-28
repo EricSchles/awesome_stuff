@@ -135,3 +135,7 @@ https://devcenter.heroku.com/articles/heroku-postgresql
 http://www.techinsider.io/modafinil-is-an-effective-cognitive-enhancement-nootropic-2016-6?utm_content=buffer4e362&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti
 
 --an interesting debate on intelligence enhancing drugs
+
+https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315#.wiuyzrlri
+
+--Neural turing machines
