@@ -143,3 +143,7 @@ https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-
 http://minimaxir.com/2016/06/interactive-reactions/
 
 --interesting analysis of public facebook posts
+
+http://www.slideshare.net/AperioIntel/financial-crime-in-the-real-estate-sector-countering-illicit-money-flows
+
+-- how to detect money laundering, with examples
