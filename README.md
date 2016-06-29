@@ -139,3 +139,7 @@ http://www.techinsider.io/modafinil-is-an-effective-cognitive-enhancement-nootro
 https://medium.com/snips-ai/ntm-lasagne-a-library-for-neural-turing-machines-in-lasagne-2cdce6837315#.wiuyzrlri
 
 --Neural turing machines
+
+http://minimaxir.com/2016/06/interactive-reactions/
+
+--interesting analysis of public facebook posts
