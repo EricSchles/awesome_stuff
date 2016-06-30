@@ -159,3 +159,7 @@ https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016/info
 http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
 
 --collaborative filtering via alternating least squares with implementation in python
+
+https://mathiasbynens.be/notes/shell-script-mac-apps
+
+--appify your shell scripts
