@@ -147,3 +147,7 @@ http://minimaxir.com/2016/06/interactive-reactions/
 http://www.slideshare.net/AperioIntel/financial-crime-in-the-real-estate-sector-countering-illicit-money-flows
 
 -- how to detect money laundering, with examples
+
+https://medium.com/data-science-cafe/apache-spark-1-6-0-setup-on-mac-os-x-yosemite-d58076e8064e#.2vggkt2n6
+
+--spark setup
