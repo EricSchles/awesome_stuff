@@ -155,3 +155,7 @@ https://medium.com/data-science-cafe/apache-spark-1-6-0-setup-on-mac-os-x-yosemi
 https://courses.edx.org/courses/course-v1:BerkeleyX+CS105x+1T2016/info
 
 --spark course
+
+http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
+
+--collaborative filtering via alternating least squares with implementation in python
