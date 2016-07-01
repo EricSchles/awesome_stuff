@@ -227,3 +227,7 @@ https://www.youtube.com/watch?v=wmw8Bbb_eIE&app=desktop
 http://www.fastcompany.com/3059634/your-most-productive-self/your-brain-has-a-delete-button-heres-how-to-use-it
 
 --your brain has a delete button
+
+https://mlalgorithm.wordpress.com/2016/06/08/hierarchical-clustering/
+
+--hierarchical clustering
