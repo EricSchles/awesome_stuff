@@ -235,3 +235,7 @@ https://mlalgorithm.wordpress.com/2016/06/08/hierarchical-clustering/
 https://github.com/unitedstates
 
 --united states github
+
+https://github.com/jmcarp/robobrowser
+
+--bad ass web scraper
