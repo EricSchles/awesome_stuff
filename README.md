@@ -163,3 +163,67 @@ http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-fo
 https://mathiasbynens.be/notes/shell-script-mac-apps
 
 --appify your shell scripts
+
+http://stackoverflow.com/questions/13636848/is-it-possible-to-do-fuzzy-match-merge-with-python-pandas
+
+--fuzzy matching with python data frames
+
+https://github.com/dgrtwo/fuzzyjoin
+
+--fuzzy join in R
+
+http://conferences.oreilly.com/strata/hadoop-big-data-ny/public/schedule/speakers
+
+--strata hadoop speakers
+
+http://conferences.oreilly.com/strata/hadoop-big-data-ny
+
+--strata hadoop NY
+
+http://conferences.oreilly.com/strata
+
+--strata conf
+
+https://www.odsc.com/boston
+
+--odsc east
+
+http://mlconf.com/events/new-york-city-ny/
+
+--mlconf nyc
+
+http://icml.cc/2016/?page_id=1519
+
+--workshops at a glance
+
+http://icml.cc/2016/?page_id=97
+
+--tutorials at icml
+
+http://icml.cc/2016/?page_id=1839
+
+--schedule icml
+
+http://techtalks.tv/icml2016/
+
+--icml papers
+
+https://sites.google.com/site/icmlworkshoponanomalydetection/
+
+--anomaly detection workshop
+
+https://spark.apache.org/docs/0.9.0/mllib-guide.html
+
+--spark mllib docs
+
+https://spark.apache.org/docs/0.9.0/python-programming-guide.html
+
+--pyspark
+
+https://www.youtube.com/watch?v=wmw8Bbb_eIE&app=desktop
+
+--tensorflow intro
+
+http://www.fastcompany.com/3059634/your-most-productive-self/your-brain-has-a-delete-button-heres-how-to-use-it
+
+--your brain has a delete button
