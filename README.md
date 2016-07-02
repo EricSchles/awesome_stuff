@@ -239,3 +239,7 @@ https://github.com/unitedstates
 https://github.com/jmcarp/robobrowser
 
 --bad ass web scraper
+
+https://arxiv.org/abs/1606.09458
+
+--ensemble voting methods
