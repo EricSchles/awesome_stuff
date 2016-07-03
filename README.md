@@ -243,3 +243,7 @@ https://github.com/jmcarp/robobrowser
 https://arxiv.org/abs/1606.09458
 
 --ensemble voting methods
+
+http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf
+
+--math hardcore
