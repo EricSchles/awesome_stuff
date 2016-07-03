@@ -247,3 +247,7 @@ https://arxiv.org/abs/1606.09458
 http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf
 
 --math hardcore
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+--lstm
