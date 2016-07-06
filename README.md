@@ -255,3 +255,7 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 http://lesswrong.com
 
 --Bayesian salad
+
+http://blog.socialcops.com/engineering/machine-learning-python?utm_source=facebook&utm_medium=social&utm_campaign=blog_share
+
+--from nothing to nn's
