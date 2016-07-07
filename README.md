@@ -263,3 +263,7 @@ http://blog.socialcops.com/engineering/machine-learning-python?utm_source=facebo
 https://dataorigami.net/blogs/napkin-folding/19055451-percentile-and-quantile-estimation-of-big-data-the-t-digest
 
 --compute the median fast
+
+http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/
+
+--deep learning at breakneck speed
