@@ -259,3 +259,7 @@ http://lesswrong.com
 http://blog.socialcops.com/engineering/machine-learning-python?utm_source=facebook&utm_medium=social&utm_campaign=blog_share
 
 --from nothing to nn's
+
+https://dataorigami.net/blogs/napkin-folding/19055451-percentile-and-quantile-estimation-of-big-data-the-t-digest
+
+--compute the median fast
