@@ -271,3 +271,7 @@ http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/
 http://highscalability.com/blog/2016/7/6/machine-learning-driven-programming-a-new-programming-for-a.html
 
 --deep learning for code generation
+
+https://www.whitehouse.gov/the-press-office/2016/06/30/fact-sheet-launching-data-driven-justice-initiative-disrupting-cycle
+
+--AI and justice from the whitehouse 
