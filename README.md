@@ -267,3 +267,7 @@ https://dataorigami.net/blogs/napkin-folding/19055451-percentile-and-quantile-es
 http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/
 
 --deep learning at breakneck speed
+
+http://highscalability.com/blog/2016/7/6/machine-learning-driven-programming-a-new-programming-for-a.html
+
+--deep learning for code generation
