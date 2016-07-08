@@ -279,3 +279,7 @@ https://www.whitehouse.gov/the-press-office/2016/06/30/fact-sheet-launching-data
 http://earthmysterynews.com/2016/05/05/physicists-send-particles-of-light-into-the-past-proving-time-travel-is-possible/
 
 --an experiment confirming that time travel is possible
+
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
+--theoretical machine learning course
