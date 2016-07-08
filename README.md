@@ -275,3 +275,7 @@ http://highscalability.com/blog/2016/7/6/machine-learning-driven-programming-a-n
 https://www.whitehouse.gov/the-press-office/2016/06/30/fact-sheet-launching-data-driven-justice-initiative-disrupting-cycle
 
 --AI and justice from the whitehouse 
+
+http://earthmysterynews.com/2016/05/05/physicists-send-particles-of-light-into-the-past-proving-time-travel-is-possible/
+
+--an experiment confirming that time travel is possible
