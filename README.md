@@ -283,3 +283,8 @@ http://earthmysterynews.com/2016/05/05/physicists-send-particles-of-light-into-t
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 --theoretical machine learning course
+
+
+http://ec2-52-51-244-37.eu-west-1.compute.amazonaws.com
+
+--narrative flow analysis with som
