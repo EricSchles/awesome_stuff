@@ -292,3 +292,8 @@ http://ec2-52-51-244-37.eu-west-1.compute.amazonaws.com
 http://www.analyticbridge.com/m/group/discussion?id=2004291%3ATopic%3A304182
 
 --data science book
+
+http://www.datasciencecentral.com/profiles/blogs/machine-learning-anomaly-detection-finding-a-needle-in-a-haystack?overrideMobileRedirect=1
+
+--anomaly detection
+
