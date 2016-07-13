@@ -288,3 +288,7 @@ https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 http://ec2-52-51-244-37.eu-west-1.compute.amazonaws.com
 
 --narrative flow analysis with som
+
+http://www.analyticbridge.com/m/group/discussion?id=2004291%3ATopic%3A304182
+
+--data science book
