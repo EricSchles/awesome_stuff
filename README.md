@@ -308,3 +308,7 @@ http://www.deepgram.com
 https://www.opendatascience.com/blog/understanding-principal-component-analysis/
 
 --PCA explained
+
+http://stats.stackexchange.com/questions/8000/proper-way-of-using-recurrent-neural-network-for-time-series-analysis
+
+--great description of RNNs for time series (what they are not)
