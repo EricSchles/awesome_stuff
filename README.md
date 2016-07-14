@@ -304,3 +304,7 @@ http://www.wired.com/2016/05/google-open-sourced-syntaxnet-ai-natural-language/?
 http://www.deepgram.com
 
 --audio api
+
+https://www.opendatascience.com/blog/understanding-principal-component-analysis/
+
+--PCA explained
