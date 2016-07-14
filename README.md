@@ -300,3 +300,7 @@ http://www.datasciencecentral.com/profiles/blogs/machine-learning-anomaly-detect
 http://www.wired.com/2016/05/google-open-sourced-syntaxnet-ai-natural-language/?utm_content=buffer7037c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 --syntax net is open source!
+
+http://www.deepgram.com
+
+--audio api
