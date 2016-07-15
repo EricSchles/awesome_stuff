@@ -316,3 +316,7 @@ http://stats.stackexchange.com/questions/8000/proper-way-of-using-recurrent-neur
 http://science.tumblr.com/post/147401742140/the-most-beautiful-equation
 
 --recursion
+
+https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
+
+--rnn applications
