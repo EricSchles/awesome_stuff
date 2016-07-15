@@ -312,3 +312,7 @@ https://www.opendatascience.com/blog/understanding-principal-component-analysis/
 http://stats.stackexchange.com/questions/8000/proper-way-of-using-recurrent-neural-network-for-time-series-analysis
 
 --great description of RNNs for time series (what they are not)
+
+http://science.tumblr.com/post/147401742140/the-most-beautiful-equation
+
+--recursion
