@@ -376,3 +376,7 @@ https://github.com/spotify/annoy
 http://www.cs.cmu.edu/~ggordon/singh-gordon-kdd-factorization.pdf
 
 --collective matrix factorization
+
+http://videolectures.net/cmulls08_singh_rlm/
+
+--collective matrix factorization
