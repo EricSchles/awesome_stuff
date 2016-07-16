@@ -372,3 +372,7 @@ http://pybee.org/
 https://github.com/spotify/annoy
 
 --nearest neighbor implementation
+
+http://www.cs.cmu.edu/~ggordon/singh-gordon-kdd-factorization.pdf
+
+--collective matrix factorization
