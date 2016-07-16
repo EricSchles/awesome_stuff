@@ -368,3 +368,7 @@ http://oubiwann.blogspot.com/2014/07/oscon-2014-theme-song-andrew-sorensen.html
 http://pybee.org/
 
 -- for mobile development
+
+https://github.com/spotify/annoy
+
+--nearest neighbor implementation
