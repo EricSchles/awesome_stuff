@@ -338,3 +338,13 @@ https://github.com/mcraig2/pygotham-talk/blob/master/tflow.ipynb
 --tensorflow intro
 
 https://pypi.python.org/pypi/ad/1.3.2
+
+--automatic differentiation
+
+https://pypi.python.org/pypi/yappi
+
+--profiler for python
+
+http://kcachegrind.sourceforge.net/html/Home.html
+
+--visualize the profiling from yappi
