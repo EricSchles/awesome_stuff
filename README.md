@@ -332,3 +332,7 @@ http://tech.magnetic.com/
 http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html
 
 --simple intro to logistic regression and ML
+
+https://github.com/mcraig2/pygotham-talk/blob/master/tflow.ipynb
+
+--tensorflow intro
