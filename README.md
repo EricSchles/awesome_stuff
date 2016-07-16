@@ -325,3 +325,10 @@ https://github.com/llllllllll/lazy_python and https://github.com/llllllllll/code
 
 -- hacking python for fun and profit!
 
+http://tech.magnetic.com/
+
+-- good blog
+
+http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html
+
+--simple intro to logistic regression and ML
