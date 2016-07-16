@@ -336,3 +336,5 @@ http://tech.magnetic.com/2016/04/demystifying-logistic-regression.html
 https://github.com/mcraig2/pygotham-talk/blob/master/tflow.ipynb
 
 --tensorflow intro
+
+https://pypi.python.org/pypi/ad/1.3.2
