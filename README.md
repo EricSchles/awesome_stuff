@@ -320,3 +320,8 @@ http://science.tumblr.com/post/147401742140/the-most-beautiful-equation
 https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
 
 --rnn applications
+
+https://github.com/llllllllll/lazy_python and https://github.com/llllllllll/codetransformer
+
+-- hacking python for fun and profit!
+
