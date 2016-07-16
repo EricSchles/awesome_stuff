@@ -352,3 +352,15 @@ http://kcachegrind.sourceforge.net/html/Home.html
 http://mike.place/talks/pygotham/#1
 
 --document summarization
+
+https://www.youtube.com/watch?v=0VTI1BBLydE
+
+--stanford music generation with RNNs
+
+https://github.com/MattVitelli/GRUV
+
+--source code
+
+http://oubiwann.blogspot.com/2014/07/oscon-2014-theme-song-andrew-sorensen.html
+
+--andrew sorenson keynote on music generation
