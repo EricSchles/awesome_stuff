@@ -348,3 +348,7 @@ https://pypi.python.org/pypi/yappi
 http://kcachegrind.sourceforge.net/html/Home.html
 
 --visualize the profiling from yappi
+
+http://mike.place/talks/pygotham/#1
+
+--document summarization
