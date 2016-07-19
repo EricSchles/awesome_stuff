@@ -380,3 +380,7 @@ http://www.cs.cmu.edu/~ggordon/singh-gordon-kdd-factorization.pdf
 http://videolectures.net/cmulls08_singh_rlm/
 
 --collective matrix factorization
+
+http://www.benjamintd.com/blog/spynet/
+
+an rnn that writes Python!
