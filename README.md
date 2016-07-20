@@ -384,3 +384,7 @@ http://videolectures.net/cmulls08_singh_rlm/
 http://www.benjamintd.com/blog/spynet/
 
 an rnn that writes Python!
+
+http://askubuntu.com/questions/761180/wifi-doesnt-work-after-suspend-after-16-04-upgrade
+
+-- fix wifi issue
