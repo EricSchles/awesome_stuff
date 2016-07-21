@@ -396,3 +396,5 @@ https://www.opendatascience.com/blog/the-forgotton-optimization-topic-set-divers
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
 --conv net theory
+
+https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google/answer/Gaurav-Jha-9?srid=0c9s
