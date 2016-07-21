@@ -392,3 +392,7 @@ http://askubuntu.com/questions/761180/wifi-doesnt-work-after-suspend-after-16-04
 https://www.opendatascience.com/blog/the-forgotton-optimization-topic-set-diversity/
 
 --optimization texhnique
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+--conv net theory
