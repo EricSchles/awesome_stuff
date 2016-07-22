@@ -398,3 +398,8 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Unders
 --conv net theory
 
 https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google/answer/Gaurav-Jha-9?srid=0c9s
+
+
+http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/
+
+--RL deep Q
