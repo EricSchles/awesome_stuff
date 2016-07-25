@@ -403,3 +403,7 @@ https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Goog
 http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/
 
 --RL deep Q
+
+https://github.com/deepmind/rc-data
+
+--deep learning language data set
