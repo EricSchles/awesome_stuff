@@ -415,3 +415,7 @@ https://github.com/rouseguy/europython2016_dl-nlp/tree/master/notebooks
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.wp3bwd9ez
 
 --svm face rec
+
+https://www.reddit.com/r/textdatamining/
+
+--textmining reddit
