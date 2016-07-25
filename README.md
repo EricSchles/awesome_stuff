@@ -407,3 +407,7 @@ http://multithreaded.stitchfix.com/blog/2016/07/21/skynet-salesman/
 https://github.com/deepmind/rc-data
 
 --deep learning language data set
+
+https://github.com/rouseguy/europython2016_dl-nlp/tree/master/notebooks
+
+--deep learning language nlp
