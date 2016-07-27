@@ -419,3 +419,7 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 https://www.reddit.com/r/textdatamining/
 
 --textmining reddit
+
+http://arxiv.org/abs/1503.04069
+
+--an analysis of LSTM
