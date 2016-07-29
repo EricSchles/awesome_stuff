@@ -423,3 +423,7 @@ https://www.reddit.com/r/textdatamining/
 http://arxiv.org/abs/1503.04069
 
 --an analysis of LSTM
+
+https://web.stanford.edu/~arbenson/cme193.html
+
+--scientific computation in python
