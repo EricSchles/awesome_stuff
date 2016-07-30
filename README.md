@@ -427,3 +427,7 @@ http://arxiv.org/abs/1503.04069
 https://web.stanford.edu/~arbenson/cme193.html
 
 --scientific computation in python
+
+http://cs231n.github.io/
+
+--stanford convolutional neural networks course with numpy
