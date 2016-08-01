@@ -431,3 +431,7 @@ https://web.stanford.edu/~arbenson/cme193.html
 http://cs231n.github.io/
 
 --stanford convolutional neural networks course with numpy
+
+http://jvns.ca/
+
+-- a very awesome blog
