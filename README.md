@@ -435,3 +435,11 @@ http://cs231n.github.io/
 http://jvns.ca/
 
 -- a very awesome blog
+
+https://github.com/tzutalin/labelImg
+
+--graphical label annotation
+
+https://www.nyu.edu/projects/bowman/bowman2016phd.pdf
+
+--modeling natural language with learned representations
