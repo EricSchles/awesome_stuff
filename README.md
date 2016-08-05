@@ -443,3 +443,7 @@ https://github.com/tzutalin/labelImg
 https://www.nyu.edu/projects/bowman/bowman2016phd.pdf
 
 --modeling natural language with learned representations
+
+https://www.mapr.com/blog/design-patterns-recommendation-systems-%E2%80%93-everyone-wants-pony
+
+--recommender system
