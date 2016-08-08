@@ -451,3 +451,7 @@ https://www.mapr.com/blog/design-patterns-recommendation-systems-%E2%80%93-every
 https://www.technologyreview.com/s/539706/how-the-new-science-of-game-stories-could-change-the-future-of-sports/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
 
 --interesting analysis and visualization of stories 
+
+http://buff.ly/2b5wvMm
+
+--3D modeling in Python 
