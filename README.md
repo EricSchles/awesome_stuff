@@ -455,3 +455,7 @@ https://www.technologyreview.com/s/539706/how-the-new-science-of-game-stories-co
 http://buff.ly/2b5wvMm
 
 --3D modeling in Python 
+
+http://www.rightrelevance.com/search/articles/hero?article=bb58e4504d119319a294fd269b5e1f61558cb26a&query=particle%20physics&taccount=parrticlephy
+
+--simple flow equation
