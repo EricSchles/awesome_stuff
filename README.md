@@ -459,3 +459,27 @@ http://buff.ly/2b5wvMm
 http://www.rightrelevance.com/search/articles/hero?article=bb58e4504d119319a294fd269b5e1f61558cb26a&query=particle%20physics&taccount=parrticlephy
 
 --simple flow equation
+
+https://github.com/EricSchles/paper-notes
+
+--from kapathary, looks super cool
+
+https://www.technologyreview.com/s/601774/data-mining-reveals-the-crucial-factors-that-determine-when-people-make-blunders/?utm_content=buffer2f2d5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+--how decisions are made
+
+https://github.com/EricSchles/drmad
+
+--hyper parameter tuning, some folks on reddit seem to think this is yet another useless technique.
+
+https://github.com/EricSchles/reddit_crawlers
+
+--reddit crawler that for some reason has a serious deep learning component, worth investigating
+
+https://github.com/dyelax/Adversarial_Video_Generation/tree/master/Code
+
+--an implementation of adversarial networks!  Definitely need to read through in detail
+
+http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html
+
+--part of a series on model selection, looks pretty good.
