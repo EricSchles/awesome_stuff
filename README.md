@@ -483,3 +483,7 @@ https://github.com/dyelax/Adversarial_Video_Generation/tree/master/Code
 http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html
 
 --part of a series on model selection, looks pretty good.
+
+http://www.futurecrunch.com.au/writing/
+
+--political economy writing
