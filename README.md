@@ -487,3 +487,7 @@ http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html
 http://www.futurecrunch.com.au/writing/
 
 --political economy writing
+
+http://chrisalbon.com/
+
+--sane examples of pandas and R
