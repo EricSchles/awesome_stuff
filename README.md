@@ -491,3 +491,7 @@ http://www.futurecrunch.com.au/writing/
 http://chrisalbon.com/
 
 --sane examples of pandas and R
+
+https://qbox.io/blog/sparse-matrix-multiplication-elasticsearch-apache-spark
+
+--elasticsearch matrix multiplication
