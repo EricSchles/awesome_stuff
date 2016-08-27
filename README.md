@@ -495,3 +495,7 @@ http://chrisalbon.com/
 https://qbox.io/blog/sparse-matrix-multiplication-elasticsearch-apache-spark
 
 --elasticsearch matrix multiplication
+
+http://www.rightrelevance.com/search/articles/hero?article=5fb7a116712286ad60484e7f05d4fdeb75e26454&query=artificial%20intelligence&taccount=ml_toparticles
+
+-- machine learning for first responders
