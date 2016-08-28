@@ -499,3 +499,7 @@ https://qbox.io/blog/sparse-matrix-multiplication-elasticsearch-apache-spark
 http://www.rightrelevance.com/search/articles/hero?article=5fb7a116712286ad60484e7f05d4fdeb75e26454&query=artificial%20intelligence&taccount=ml_toparticles
 
 -- machine learning for first responders
+
+http://blog.getstream.io/fast-recommendations-for-activity-streams-using-vowpal-wabbit?utm_content=buffera5da5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+--vopal wabbit
