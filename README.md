@@ -503,3 +503,7 @@ http://www.rightrelevance.com/search/articles/hero?article=5fb7a116712286ad60484
 http://blog.getstream.io/fast-recommendations-for-activity-streams-using-vowpal-wabbit?utm_content=buffera5da5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 --vopal wabbit
+
+http://mike.place/talks/pygotham/#p1
+
+--Document search 
