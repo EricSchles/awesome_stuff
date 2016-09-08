@@ -516,3 +516,6 @@ https://github.com/MacLeek/trackmac
 
 https://github.com/HackerHouseYT/Smart-Mirror
 --smart miror w/ raspbery pi
+
+http://distill.pub/2016/augmented-rnns/
+--RNNs
