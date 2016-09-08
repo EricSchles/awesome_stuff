@@ -510,3 +510,9 @@ http://mike.place/talks/pygotham/#p1
 
 http://github.com/coxlab/prednet
 --recurrent convolutional net
+
+https://github.com/MacLeek/trackmac
+--tracking project time on mac
+
+https://github.com/HackerHouseYT/Smart-Mirror
+--smart miror w/ raspbery pi
