@@ -519,3 +519,31 @@ https://github.com/HackerHouseYT/Smart-Mirror
 
 http://distill.pub/2016/augmented-rnns/
 --RNNs
+
+https://medium.com/@USCTO/public-input-and-next-steps-on-the-future-of-artificial-intelligence-458b82059fc3#.vad6ol11a
+--interesting read on ML
+
+http://blog.quantopian.com/optimize_capacity/
+--sharpe Ratio
+
+https://unu.edu/fighting-human-trafficking-in-conflict
+--human trafficking in conflict
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_content=buffer556a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--data camp python class
+
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+--python interpretter written in python
+
+http://sunlightfoundation.com/blog/2016/09/08/today-in-opengov-the-future-of-the-us-city-open-data-census-first-us-ciso-and-more/
+--open data
+
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+--wave net for audio
+
+https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.3e9v5nggx
+--machine language translation
+
+http://www.rightrelevance.com/search/articles/hero?article=e036c156aa408a235aa740162e3b1cfd2e0e985c&query=python&taccount=pythonrr
+--python intel distro
+
