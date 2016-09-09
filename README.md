@@ -547,3 +547,5 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation
 http://www.rightrelevance.com/search/articles/hero?article=e036c156aa408a235aa740162e3b1cfd2e0e985c&query=python&taccount=pythonrr
 --python intel distro
 
+http://fusion.net/story/344884/sex-slave-bars-in-united-states/
+--great set of visuals about human trafficking
