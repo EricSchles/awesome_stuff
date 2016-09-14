@@ -549,3 +549,5 @@ http://www.rightrelevance.com/search/articles/hero?article=e036c156aa408a235aa74
 
 http://fusion.net/story/344884/sex-slave-bars-in-united-states/
 --great set of visuals about human trafficking
+
+https://m.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam And https://m.youtube.com/watch?v=sU_Yu_USrNc
