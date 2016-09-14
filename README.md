@@ -552,3 +552,6 @@ http://fusion.net/story/344884/sex-slave-bars-in-united-states/
 
 https://m.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam And https://m.youtube.com/watch?v=sU_Yu_USrNc
 --Stanford nlp lectures
+
+http://www.rightrelevance.com/search/articles/hero?article=4c40ce09cb544b00b68580b7866fe18ce48a27eb&query=python&taccount=pythonrr
+--sandman library
