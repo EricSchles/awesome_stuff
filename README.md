@@ -506,7 +506,7 @@ http://blog.getstream.io/fast-recommendations-for-activity-streams-using-vowpal-
 
 http://mike.place/talks/pygotham/#p1
 
---Document search 
+--Document summarization
 
 http://github.com/coxlab/prednet
 --recurrent convolutional net
