@@ -558,3 +558,6 @@ http://www.rightrelevance.com/search/articles/hero?article=4c40ce09cb544b00b6858
 
 https://www.facebook.com/inthenow/videos/681969348620104/
 --ambulance drone
+
+http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/
+--minimal neural network with Keras
