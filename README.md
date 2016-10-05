@@ -564,3 +564,6 @@ http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-
 
 https://github.com/datascopeanalytics/traces
 --uneven time series analysis
+
+https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/
+--high level walk through of NLP concepts 
