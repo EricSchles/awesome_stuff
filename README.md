@@ -567,3 +567,6 @@ https://github.com/datascopeanalytics/traces
 
 https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/
 --high level walk through of NLP concepts 
+
+https://www.yhat.com/ops-demos/
+--ml demos with keras / opencv
