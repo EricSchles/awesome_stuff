@@ -570,3 +570,6 @@ https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing
 
 https://www.yhat.com/ops-demos/
 --ml demos with keras / opencv
+
+http://bit.ly/2eNfcOs
+--wrapper around Google charts API 
