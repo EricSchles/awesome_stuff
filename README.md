@@ -573,3 +573,6 @@ https://www.yhat.com/ops-demos/
 
 http://bit.ly/2eNfcOs
 --wrapper around Google charts API 
+
+https://github.com/metagrover/ES6-for-humans
+--a good set of descriptions of javascript conventions, symbols and syntax
