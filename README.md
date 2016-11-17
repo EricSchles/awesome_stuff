@@ -576,3 +576,6 @@ http://bit.ly/2eNfcOs
 
 https://github.com/metagrover/ES6-for-humans
 --a good set of descriptions of javascript conventions, symbols and syntax
+
+https://github.com/wireservice/agate
+--data discovery tool
