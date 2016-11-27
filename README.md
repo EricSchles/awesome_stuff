@@ -579,3 +579,6 @@ https://github.com/metagrover/ES6-for-humans
 
 https://github.com/wireservice/agate
 --data discovery tool
+
+http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/
+--program that generates code
