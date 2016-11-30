@@ -582,3 +582,6 @@ https://github.com/wireservice/agate
 
 http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/
 --program that generates code
+
+http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python
+--word2vec vs GloVe
