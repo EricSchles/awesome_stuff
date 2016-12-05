@@ -585,3 +585,9 @@ http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-
 
 http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python
 --word2vec vs GloVe
+
+https://mostafa-samir.github.io/ml-theory-pt3/
+--an introduction to bias variance trade off
+
+https://www.opendatascience.com/blog/bayesian-deep-learning/ and https://www.opendatascience.com/blog/bayesian-deep-learning-part-ii-bridging-pymc3-and-lasagne-to-build-a-hierarchical-neural-network/
+--neural nets and bayesian thinking
