@@ -591,3 +591,6 @@ https://mostafa-samir.github.io/ml-theory-pt3/
 
 https://www.opendatascience.com/blog/bayesian-deep-learning/ and https://www.opendatascience.com/blog/bayesian-deep-learning-part-ii-bridging-pymc3-and-lasagne-to-build-a-hierarchical-neural-network/
 --neural nets and bayesian thinking
+
+https://inviqa.com/blog/graphs-database-sql-meets-social-network
+--loops in SQL, graph traversal in SQL
