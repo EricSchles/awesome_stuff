@@ -594,3 +594,6 @@ https://www.opendatascience.com/blog/bayesian-deep-learning/ and https://www.ope
 
 https://inviqa.com/blog/graphs-database-sql-meets-social-network
 --loops in SQL, graph traversal in SQL
+
+https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.dzilfvdfq
+--blockchain ml
