@@ -597,3 +597,6 @@ https://inviqa.com/blog/graphs-database-sql-meets-social-network
 
 https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.dzilfvdfq
 --blockchain ml
+
+http://pytorch.org/
+--neual nets
