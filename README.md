@@ -600,3 +600,6 @@ https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984
 
 http://pytorch.org/
 --neual nets
+
+https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172#.75j94rygt
+--Python Garbage Collection
