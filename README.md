@@ -603,3 +603,6 @@ http://pytorch.org/
 
 https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172#.75j94rygt
 --Python Garbage Collection
+
+http://dustintran.com/talks/Tran_Edward.pdf
+--probability modeling
