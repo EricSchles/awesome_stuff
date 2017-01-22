@@ -606,3 +606,6 @@ https://engineering.instagram.com/dismissing-python-garbage-collection-at-instag
 
 http://dustintran.com/talks/Tran_Edward.pdf
 --probability modeling
+
+https://www.r-bloggers.com/outlier-detection-with-mahalanobis-distance/
+--outlier detection
