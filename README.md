@@ -609,3 +609,6 @@ http://dustintran.com/talks/Tran_Edward.pdf
 
 https://www.r-bloggers.com/outlier-detection-with-mahalanobis-distance/
 --outlier detection
+
+http://yann.readthedocs.io/en/master/
+--yet another neuaral network library
