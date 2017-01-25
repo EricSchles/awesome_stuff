@@ -612,3 +612,6 @@ https://www.r-bloggers.com/outlier-detection-with-mahalanobis-distance/
 
 http://yann.readthedocs.io/en/master/
 --yet another neuaral network library
+
+https://arxiv.org/abs/1701.06538?utm_content=buffer26227&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--flow of control in neural networks
