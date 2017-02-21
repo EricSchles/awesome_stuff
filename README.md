@@ -615,3 +615,6 @@ http://yann.readthedocs.io/en/master/
 
 https://arxiv.org/abs/1701.06538?utm_content=buffer26227&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --flow of control in neural networks
+
+http://peterdowns.com/posts/first-time-with-pypi.html
+--making a pypi package
