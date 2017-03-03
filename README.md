@@ -627,3 +627,5 @@ https://github.com/mbernico/snape
 
 https://research.fb.com/prophet-forecasting-at-scale/
 --facebook forecasting library
+
+`sudo killall coreaudiod` -- for when screen hero audio doesn't work
