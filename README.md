@@ -618,3 +618,12 @@ https://arxiv.org/abs/1701.06538?utm_content=buffer26227&utm_medium=social&utm_s
 
 http://peterdowns.com/posts/first-time-with-pypi.html
 --making a pypi package
+
+https://github.com/lenagroeger/gifs
+--data visualization gifs
+
+https://github.com/mbernico/snape
+--realistic dummy data for testing algorimths.
+
+https://research.fb.com/prophet-forecasting-at-scale/
+--facebook forecasting library
