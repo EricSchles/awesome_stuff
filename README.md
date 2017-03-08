@@ -632,3 +632,6 @@ https://research.fb.com/prophet-forecasting-at-scale/
 
 https://pypi.python.org/pypi/ERAlchemy
 --Create ER diagrams "for free"
+
+http://students.brown.edu/seeing-theory/?vt=4
+--visual descriptions of basic probability
