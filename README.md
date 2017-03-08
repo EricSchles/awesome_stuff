@@ -635,3 +635,6 @@ https://pypi.python.org/pypi/ERAlchemy
 
 http://students.brown.edu/seeing-theory/?vt=4
 --visual descriptions of basic probability
+
+https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+--gaussian processes for prediction in python
