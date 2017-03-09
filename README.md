@@ -647,3 +647,6 @@ http://dan.iel.fm/emcee/current/user/line/
 
 http://nipy.org/nitime/api/generated/nitime.timeseries.html
 --time series analysis
+
+http://fb09-pasig.umwelt.uni-giessen.de/spotpy/
+--spotpy docs for doing simulation of data
