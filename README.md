@@ -644,3 +644,6 @@ http://www.kdnuggets.com/2017/03/yhat-beginner-guide-customer-segmentation.html
 
 http://dan.iel.fm/emcee/current/user/line/
 --parameter estimation with MCMC
+
+http://nipy.org/nitime/api/generated/nitime.timeseries.html
+--time series analysis
