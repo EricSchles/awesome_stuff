@@ -638,3 +638,6 @@ http://students.brown.edu/seeing-theory/?vt=4
 
 https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 --gaussian processes for prediction in python
+
+http://www.kdnuggets.com/2017/03/yhat-beginner-guide-customer-segmentation.html
+--pedogogical intro to clustering
