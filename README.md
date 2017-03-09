@@ -641,3 +641,6 @@ https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 
 http://www.kdnuggets.com/2017/03/yhat-beginner-guide-customer-segmentation.html
 --pedogogical intro to clustering
+
+http://dan.iel.fm/emcee/current/user/line/
+--parameter estimation with MCMC
