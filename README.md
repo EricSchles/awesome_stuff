@@ -650,3 +650,6 @@ http://nipy.org/nitime/api/generated/nitime.timeseries.html
 
 http://fb09-pasig.umwelt.uni-giessen.de/spotpy/
 --spotpy docs for doing simulation of data
+
+https://github.com/slavivanov/Style-Tranfer
+--style transfer code with a conv net in keras
