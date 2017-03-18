@@ -656,3 +656,6 @@ https://github.com/slavivanov/Style-Tranfer
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
 --whole bunch of ml notebooks
+
+https://arstechnica.co.uk/information-technology/2017/03/google-jpeg-guetzli-encoder-file-size/
+--file compression.
