@@ -653,3 +653,6 @@ http://fb09-pasig.umwelt.uni-giessen.de/spotpy/
 
 https://github.com/slavivanov/Style-Tranfer
 --style transfer code with a conv net in keras
+
+http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
+--whole bunch of ml notebooks
