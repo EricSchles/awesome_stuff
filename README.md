@@ -659,3 +659,6 @@ http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-da
 
 https://arstechnica.co.uk/information-technology/2017/03/google-jpeg-guetzli-encoder-file-size/
 --file compression.
+
+https://blog.jisungkim.com/machine-learning-and-art-9ea2c9342180#.2ve57gv6f
+-- art and ml examples
