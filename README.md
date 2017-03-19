@@ -662,3 +662,6 @@ https://arstechnica.co.uk/information-technology/2017/03/google-jpeg-guetzli-enc
 
 https://blog.jisungkim.com/machine-learning-and-art-9ea2c9342180#.2ve57gv6f
 -- art and ml examples
+
+http://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html?utm_content=buffer8924b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+--xgboost tutorial python
