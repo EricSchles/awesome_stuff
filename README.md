@@ -668,3 +668,5 @@ http://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html?utm_c
 
 http://blog.yhat.com/posts/python-generated-powerpoint.html
 --power point generator
+
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
