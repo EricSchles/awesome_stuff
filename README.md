@@ -670,3 +670,7 @@ http://blog.yhat.com/posts/python-generated-powerpoint.html
 --power point generator
 
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+-scikit learning cheat sheet
+
+http://deeplearning.net/tutorial/deeplearning.pdf
+--deep learning in python book theano numpy
