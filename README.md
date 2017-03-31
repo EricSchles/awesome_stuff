@@ -677,3 +677,6 @@ http://deeplearning.net/tutorial/deeplearning.pdf
 
 http://www.markhneedham.com/blog/2017/03/25/luigi-externalprogramtask-example-converting-json-csv/
 --luigi intro
+
+https://github.com/fchollet/keras-resources
+--keras resources
