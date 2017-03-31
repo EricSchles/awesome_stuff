@@ -674,3 +674,6 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Shee
 
 http://deeplearning.net/tutorial/deeplearning.pdf
 --deep learning in python book theano numpy
+
+http://www.markhneedham.com/blog/2017/03/25/luigi-externalprogramtask-example-converting-json-csv/
+--luigi intro
