@@ -680,3 +680,6 @@ http://www.markhneedham.com/blog/2017/03/25/luigi-externalprogramtask-example-co
 
 https://github.com/fchollet/keras-resources
 --keras resources
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016890/pdf/12859_2016_Article_1236.pdf
+-- generalized logistic regression
