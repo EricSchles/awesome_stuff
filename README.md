@@ -683,3 +683,6 @@ https://github.com/fchollet/keras-resources
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016890/pdf/12859_2016_Article_1236.pdf
 -- generalized logistic regression
+
+https://github.com/rajshah4/image_keras
+-- image classification
