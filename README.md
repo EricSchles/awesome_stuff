@@ -686,3 +686,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016890/pdf/12859_2016_Article_1236
 
 https://github.com/rajshah4/image_keras
 -- image classification
+
+http://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
+--facial recognition for video
