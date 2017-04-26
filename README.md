@@ -689,3 +689,6 @@ https://github.com/rajshah4/image_keras
 
 http://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
 --facial recognition for video
+
+https://tech-forward-2.glitch.me/
+--list of awesome tech orgs
