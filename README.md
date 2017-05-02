@@ -692,3 +692,6 @@ http://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-open
 
 https://tech-forward-2.glitch.me/
 --list of awesome tech orgs
+
+http://www.datasciencecentral.com/profiles/blogs/introduction-to-outlier-detection-methods?utm_content=buffer0fb5c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--an introduction to outlier detection
