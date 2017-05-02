@@ -695,3 +695,6 @@ https://tech-forward-2.glitch.me/
 
 http://www.datasciencecentral.com/profiles/blogs/introduction-to-outlier-detection-methods?utm_content=buffer0fb5c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --an introduction to outlier detection
+
+http://theorangeduck.com/page/phase-functioned-neural-networks-character-control?utm_content=buffereda7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--phase function neural networks - might be useful for timeseries
