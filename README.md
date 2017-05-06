@@ -698,3 +698,6 @@ http://www.datasciencecentral.com/profiles/blogs/introduction-to-outlier-detecti
 
 http://theorangeduck.com/page/phase-functioned-neural-networks-character-control?utm_content=buffereda7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --phase function neural networks - might be useful for timeseries
+
+https://www.quantinsti.com/blog/trading-using-machine-learning-python/#DataScience
+-- timeseries prediction in data science parlence.
