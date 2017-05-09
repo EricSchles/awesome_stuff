@@ -701,3 +701,6 @@ http://theorangeduck.com/page/phase-functioned-neural-networks-character-control
 
 https://www.quantinsti.com/blog/trading-using-machine-learning-python/#DataScience
 -- timeseries prediction in data science parlence.
+
+https://github.com/wayaai
+--a very cool deep learning company
