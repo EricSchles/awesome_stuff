@@ -704,3 +704,6 @@ https://www.quantinsti.com/blog/trading-using-machine-learning-python/#DataScien
 
 https://github.com/wayaai
 --a very cool deep learning company
+
+https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3
+--how to work with keras and VGG16 (also `from keras.applications.vgg16 import VGG16; model = VGG16()`)
