@@ -707,3 +707,30 @@ https://github.com/wayaai
 
 https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3
 --how to work with keras and VGG16 (also `from keras.applications.vgg16 import VGG16; model = VGG16()`)
+
+http://www.kdnuggets.com/2017/04/ai-maturity-model.html
+--maturity model
+
+https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8?from=timeline&isappinstalled=0
+--artificial intelligence automation
+
+http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
+--deep learning keras intro
+
+https://www.xenonstack.com/blog/overview-of-artificial-intelligence-and-role-of-natural-language-processing-in-big-data
+--great nlp 
+
+https://www.quantinsti.com/blog/trading-using-machine-learning-python/#DataScience
+-- timeseries in python
+
+http://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html?utm_content=buffer45425&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- k-means improvement
+
+http://www.datasciencecentral.com/profiles/blogs/10-deep-learning-terms-explained-in-simple-english?utm_content=buffer6e829&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- list of machine learning terms
+
+http://flowingdata.com/2017/05/02/shifting-incomes-for-young-people/
+--job data
+
+http://www.rightrelevance.com/search/articles/hero?article=b8c3fc25c7f0238393be0d0ad4fc93fa074be5f6&query=data%20science&taccount=ml_toparticles
+--mortality data
