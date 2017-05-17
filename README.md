@@ -737,3 +737,12 @@ http://www.rightrelevance.com/search/articles/hero?article=b8c3fc25c7f0238393be0
 
 http://cmawer.github.io/trainspotting/trainspotting-blog.html
 --train detection and direction detection
+
+http://www.kdnuggets.com/2017/04/datascience-introduction-anomaly-detection.html
+--anamoly detection
+
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python?utm_content=buffer85c3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--kalman and bayesian filters in python
+
+http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=bufferea858&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- open source data science degree
