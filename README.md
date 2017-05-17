@@ -734,3 +734,6 @@ http://flowingdata.com/2017/05/02/shifting-incomes-for-young-people/
 
 http://www.rightrelevance.com/search/articles/hero?article=b8c3fc25c7f0238393be0d0ad4fc93fa074be5f6&query=data%20science&taccount=ml_toparticles
 --mortality data
+
+http://cmawer.github.io/trainspotting/trainspotting-blog.html
+--train detection and direction detection
