@@ -746,3 +746,6 @@ https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python?utm_content=buff
 
 http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=bufferea858&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- open source data science degree
+
+https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5?platform=hootsuite
+--cnn visualizer
