@@ -749,3 +749,6 @@ http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_co
 
 https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5?platform=hootsuite
 --cnn visualizer
+
+https://medium.com/intuitionmachine/deep-adversarial-learning-is-finally-ready-and-will-radically-change-the-game-f0cfda7b91d3
+-- good basic description of generative adversarial neural networks.
