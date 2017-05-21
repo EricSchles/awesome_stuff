@@ -752,3 +752,6 @@ https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3
 
 https://medium.com/intuitionmachine/deep-adversarial-learning-is-finally-ready-and-will-radically-change-the-game-f0cfda7b91d3
 -- good basic description of generative adversarial neural networks.
+
+http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+--keras image processing tutorial
