@@ -755,3 +755,6 @@ https://medium.com/intuitionmachine/deep-adversarial-learning-is-finally-ready-a
 
 http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 --keras image processing tutorial
+
+https://www.datascience.com/resources/tools/skater
+-- model interpretation library
