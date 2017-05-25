@@ -758,3 +758,6 @@ http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-
 
 https://www.datascience.com/resources/tools/skater
 -- model interpretation library
+
+http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools?overrideMobileRedirect=1
+--telling data stories
