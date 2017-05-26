@@ -761,3 +761,6 @@ https://www.datascience.com/resources/tools/skater
 
 http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools?overrideMobileRedirect=1
 --telling data stories
+
+https://github.com/gaojiuli/tomd
+--converts HTML into markdown
