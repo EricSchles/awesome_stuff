@@ -764,3 +764,6 @@ http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-
 
 https://github.com/gaojiuli/tomd
 --converts HTML into markdown
+
+https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
+--super awesome description of AlphaGo
