@@ -767,3 +767,12 @@ https://github.com/gaojiuli/tomd
 
 https://medium.com/@karpathy/alphago-in-context-c47718cb95a5
 --super awesome description of AlphaGo
+
+https://opendatascience.com/rec-system/?utm_content=52586516&_hsenc=p2ANqtz-9jGizLlpsoa76ETOX2LRnsRKzzER0lIeENGuQuIvUflcllijdwfT6L6w-md3zQOEiTZp3xaIy1l0CsoeDgKVLRhzkPKg&_hsmi=52595398
+--recommender system intro in Python
+
+https://opendatascience.com/blog/factorization-machines-for-recommendation-systems/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=52586516&_hsenc=p2ANqtz-_Vr8oIhp5ceuxkCEIrj9ccwSKBPIedXDF0ORf1j2E1dN6JzTR1RwAlSNVTU-eb6uHdMS4secVkw0s5ryG5qne6SioKVg&_hsmi=52595398
+--more recommender stuff in Python
+
+https://opendatascience.com/time-series-analysis-with-generalized-additive-models/?utm_content=52586516&_hsenc=p2ANqtz-9oWCL-QDRrDQOcDJdmmzUvRdBBnRf_L8cn5epiWWHWOdOVzwCEcWZUP8U-Hv6ZoUI1hrzfyt-Vf7jlEoFjxoqR7FeIGg&_hsmi=52595398
+--timeseries analysis with additive models
