@@ -776,3 +776,6 @@ https://opendatascience.com/blog/factorization-machines-for-recommendation-syste
 
 https://opendatascience.com/time-series-analysis-with-generalized-additive-models/?utm_content=52586516&_hsenc=p2ANqtz-9oWCL-QDRrDQOcDJdmmzUvRdBBnRf_L8cn5epiWWHWOdOVzwCEcWZUP8U-Hv6ZoUI1hrzfyt-Vf7jlEoFjxoqR7FeIGg&_hsmi=52595398
 --timeseries analysis with additive models
+
+http://babble-rnn.consected.com/docs/babble-rnn-generating-speech-from-speech-post.html
+--speech processing in keras
