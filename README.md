@@ -782,3 +782,6 @@ http://babble-rnn.consected.com/docs/babble-rnn-generating-speech-from-speech-po
 
 https://github.com/ZWMiller/svdRec
 -- recommender system with SVD
+
+http://blog.echen.me/2017/05/30/exploring-lstms/?utm_content=bufferb0490&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+-- recurrent neural networks in java
