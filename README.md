@@ -779,3 +779,6 @@ https://opendatascience.com/time-series-analysis-with-generalized-additive-model
 
 http://babble-rnn.consected.com/docs/babble-rnn-generating-speech-from-speech-post.html
 --speech processing in keras
+
+https://github.com/ZWMiller/svdRec
+-- recommender system with SVD
