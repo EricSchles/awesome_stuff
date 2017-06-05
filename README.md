@@ -785,3 +785,6 @@ https://github.com/ZWMiller/svdRec
 
 http://blog.echen.me/2017/05/30/exploring-lstms/?utm_content=bufferb0490&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 -- recurrent neural networks in java
+
+https://github.com/aredridel/how-to-read-code/blob/master/how-to-read-code.md
+-- how to read code
