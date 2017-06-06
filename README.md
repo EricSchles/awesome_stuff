@@ -794,3 +794,6 @@ https://2016.foss4g-na.org/sites/default/files/slides/FOSS4G_machine_learning.pd
 
 https://github.com/EricSchles/reveal.js
 --js slides in browser
+
+https://hilaryparker.com/
+-- R programmer worth following
