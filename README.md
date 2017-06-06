@@ -788,3 +788,6 @@ http://blog.echen.me/2017/05/30/exploring-lstms/?utm_content=bufferb0490&utm_med
 
 https://github.com/aredridel/how-to-read-code/blob/master/how-to-read-code.md
 -- how to read code
+
+https://2016.foss4g-na.org/sites/default/files/slides/FOSS4G_machine_learning.pdf
+-- ml and geospatial
