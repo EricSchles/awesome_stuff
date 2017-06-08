@@ -797,3 +797,6 @@ https://github.com/EricSchles/reveal.js
 
 https://hilaryparker.com/
 -- R programmer worth following
+
+https://github.com/starcolon/vor-knowledge-graph
+-- open knowledge graph generator from wikipedia
