@@ -800,3 +800,5 @@ https://hilaryparker.com/
 
 https://github.com/starcolon/vor-knowledge-graph
 -- open knowledge graph generator from wikipedia
+
+https://en.wikipedia.org/wiki/AIML
