@@ -806,3 +806,6 @@ https://en.wikipedia.org/wiki/AIML
 
 http://python-for-multivariate-analysis.readthedocs.io/a_little_book_of_python_for_multivariate_analysis.html
 -- a fantastic introduction to multivariate analysis with a great explanation of LDA, PCA
+
+https://help.gooddata.com/display/doc/Normality+Testing+-+Skewness+and+Kurtosis
+--understanding the results of the normal test in scipy
