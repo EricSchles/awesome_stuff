@@ -809,3 +809,6 @@ http://python-for-multivariate-analysis.readthedocs.io/a_little_book_of_python_f
 
 https://help.gooddata.com/display/doc/Normality+Testing+-+Skewness+and+Kurtosis
 --understanding the results of the normal test in scipy
+
+http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
+-- understanding different correlation tests
