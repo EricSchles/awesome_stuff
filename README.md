@@ -812,3 +812,6 @@ https://help.gooddata.com/display/doc/Normality+Testing+-+Skewness+and+Kurtosis
 
 http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
 -- understanding different correlation tests
+
+http://nbviewer.jupyter.org/gist/aflaxman/6871948
+-- understanding bootstraping
