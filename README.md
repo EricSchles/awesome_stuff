@@ -827,3 +827,6 @@ http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-n
 
 http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 -- timeseries modeling with keras (part 2)
+
+https://www.amazon.com/Deep-Time-Forecasting-Python-Introduction-ebook/dp/B01N100IPR
+-- timeseries forecasting with keras book
