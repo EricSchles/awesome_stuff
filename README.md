@@ -821,3 +821,6 @@ http://www.stat.pitt.edu/stoffer/tsa4/tsaEZ.pdf
 
 http://arch.readthedocs.io/en/latest/index.html
 --advanced timeseries modeling
+
+http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+-- timeseries modeling with keras
