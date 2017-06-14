@@ -824,3 +824,6 @@ http://arch.readthedocs.io/en/latest/index.html
 
 http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 -- timeseries modeling with keras
+
+http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+-- timeseries modeling with keras (part 2)
