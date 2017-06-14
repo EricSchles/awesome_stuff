@@ -815,3 +815,6 @@ http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
 
 http://nbviewer.jupyter.org/gist/aflaxman/6871948
 -- understanding bootstraping
+
+http://www.stat.pitt.edu/stoffer/tsa4/tsaEZ.pdf
+--introduction to timeseries analysis
