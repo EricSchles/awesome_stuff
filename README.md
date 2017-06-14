@@ -818,3 +818,6 @@ http://nbviewer.jupyter.org/gist/aflaxman/6871948
 
 http://www.stat.pitt.edu/stoffer/tsa4/tsaEZ.pdf
 --introduction to timeseries analysis
+
+http://arch.readthedocs.io/en/latest/index.html
+--advanced timeseries modeling
