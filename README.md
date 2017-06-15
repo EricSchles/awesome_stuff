@@ -830,3 +830,6 @@ http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory
 
 https://www.amazon.com/Deep-Time-Forecasting-Python-Introduction-ebook/dp/B01N100IPR
 -- timeseries forecasting with keras book
+
+http://www.stata.com/meeting/5nasug/TSFiltering_beamer.pdf
+--band filtering
