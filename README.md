@@ -833,3 +833,6 @@ https://www.amazon.com/Deep-Time-Forecasting-Python-Introduction-ebook/dp/B01N10
 
 http://www.stata.com/meeting/5nasug/TSFiltering_beamer.pdf
 --band filtering
+
+https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/
+--make music with Python
