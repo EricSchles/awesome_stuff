@@ -836,3 +836,6 @@ http://www.stata.com/meeting/5nasug/TSFiltering_beamer.pdf
 
 https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/
 --make music with Python
+
+https://semaphoreci.com/community/tutorials/generating-fake-data-for-python-unit-tests-with-faker
+-- a pretty decent data faking package.
