@@ -845,3 +845,6 @@ https://sflscientific.com/blog/2017/2/10/predicting-stock-volume-with-lstm
 
 https://kndrck.co/indexing-faces-on-instagram.html
 --horrifying and creepy, but useful in the anti trafficking context - scraping faces from instagram
+
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+-- AWS lambda
