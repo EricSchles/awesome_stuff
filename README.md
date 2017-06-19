@@ -842,3 +842,6 @@ https://semaphoreci.com/community/tutorials/generating-fake-data-for-python-unit
 
 https://sflscientific.com/blog/2017/2/10/predicting-stock-volume-with-lstm
 -- stockmarket analysis with RNNs
+
+https://kndrck.co/indexing-faces-on-instagram.html
+--horrifying and creepy, but useful in the anti trafficking context - scraping faces from instagram
