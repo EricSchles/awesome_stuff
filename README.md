@@ -848,3 +848,6 @@ https://kndrck.co/indexing-faces-on-instagram.html
 
 https://serverlesscode.com/post/rich-jones-interview-django-zappa/
 -- AWS lambda
+
+http://www.kdnuggets.com/2017/03/working-numpy-matrices.html
+-- tiny intro to numpy
