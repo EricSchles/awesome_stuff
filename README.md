@@ -851,3 +851,6 @@ https://serverlesscode.com/post/rich-jones-interview-django-zappa/
 
 http://www.kdnuggets.com/2017/03/working-numpy-matrices.html
 -- tiny intro to numpy
+
+https://github.com/rigetticomputing/pyquil
+-- quantum cloud computing library for python
