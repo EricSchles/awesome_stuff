@@ -854,3 +854,6 @@ http://www.kdnuggets.com/2017/03/working-numpy-matrices.html
 
 https://github.com/rigetticomputing/pyquil
 -- quantum cloud computing library for python
+
+http://blog.aylien.com/understanding-customer-frustrations-in-the-airline-industry-with-aspect-based-sentiment-analysis/
+-- aspect based sentiment analysis
