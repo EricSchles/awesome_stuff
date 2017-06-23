@@ -863,3 +863,6 @@ https://github.com/DistrictDataLabs/yellowbrick
 
 https://github.com/DistrictDataLabs/partisan-discourse
 -- build your own nlp corpus 
+
+https://pypi.python.org/pypi/baleen/0.3.3
+-- build your own nlp corpus
