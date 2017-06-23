@@ -857,3 +857,6 @@ https://github.com/rigetticomputing/pyquil
 
 http://blog.aylien.com/understanding-customer-frustrations-in-the-airline-industry-with-aspect-based-sentiment-analysis/
 -- aspect based sentiment analysis
+
+https://github.com/DistrictDataLabs/yellowbrick
+-- Visual analysis and diagnostic tools to facilitate machine learning model selection
