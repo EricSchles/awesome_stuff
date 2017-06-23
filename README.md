@@ -860,3 +860,6 @@ http://blog.aylien.com/understanding-customer-frustrations-in-the-airline-indust
 
 https://github.com/DistrictDataLabs/yellowbrick
 -- Visual analysis and diagnostic tools to facilitate machine learning model selection
+
+https://github.com/DistrictDataLabs/partisan-discourse
+-- build your own nlp corpus 
