@@ -869,3 +869,6 @@ https://pypi.python.org/pypi/baleen/0.3.3
 
 https://github.com/DistrictDataLabs/minke
 -- nlp feature extractor w/ metadata
+
+https://github.com/ethereum/pyethereum
+--python interface for ethereum
