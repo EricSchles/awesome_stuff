@@ -872,3 +872,6 @@ https://github.com/DistrictDataLabs/minke
 
 https://github.com/ethereum/pyethereum
 --python interface for ethereum
+
+https://www.wired.com/2016/01/use-code-to-create-sweet-3-d-visualizations-of-electric-fields/
+--3-D models
