@@ -878,3 +878,6 @@ https://www.wired.com/2016/01/use-code-to-create-sweet-3-d-visualizations-of-ele
 
 https://www.youtube.com/watch?v=oNf3I1fVmg8&feature=share
 --tensorflow, spark, advanced algebra things
+
+https://github.com/meetshah1995/pytorch-semseg
+--semantic image segmentation
