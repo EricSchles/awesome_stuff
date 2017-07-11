@@ -887,3 +887,6 @@ https://github.com/bokeh/datashader?utm_content=buffera606e&utm_medium=social&ut
 
 http://www.kdnuggets.com/2017/07/strange-loop-deep-learning.html?utm_content=bufferdb453&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --ladder networks explained.
+
+https://github.com/mehrdadn/SOTA-Py?utm_content=bufferd4663&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--routing problem algorithm - "How do you travel from point A to point B in T time under traffic?"
