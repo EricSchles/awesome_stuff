@@ -881,3 +881,6 @@ https://www.youtube.com/watch?v=oNf3I1fVmg8&feature=share
 
 https://github.com/meetshah1995/pytorch-semseg
 --semantic image segmentation
+
+https://github.com/bokeh/datashader?utm_content=buffera606e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- shards big data correctly and geomaps it
