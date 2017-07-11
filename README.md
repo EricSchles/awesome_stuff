@@ -884,3 +884,6 @@ https://github.com/meetshah1995/pytorch-semseg
 
 https://github.com/bokeh/datashader?utm_content=buffera606e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- shards big data correctly and geomaps it
+
+http://www.kdnuggets.com/2017/07/strange-loop-deep-learning.html?utm_content=bufferdb453&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--ladder networks explained.
