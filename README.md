@@ -893,3 +893,6 @@ https://github.com/mehrdadn/SOTA-Py?utm_content=bufferd4663&utm_medium=social&ut
 
 https://github.com/reinforceio/tensorforce
 -- deep reinforcement learning
+
+http://tensorflow-world-resources.readthedocs.io/en/latest/
+--tensorflow intro
