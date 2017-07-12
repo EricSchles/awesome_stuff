@@ -890,3 +890,6 @@ http://www.kdnuggets.com/2017/07/strange-loop-deep-learning.html?utm_content=buf
 
 https://github.com/mehrdadn/SOTA-Py?utm_content=bufferd4663&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --routing problem algorithm - "How do you travel from point A to point B in T time under traffic?"
+
+https://github.com/reinforceio/tensorforce
+-- deep reinforcement learning
