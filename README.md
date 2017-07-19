@@ -899,3 +899,6 @@ http://tensorflow-world-resources.readthedocs.io/en/latest/
 
 https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html?m=1
 -- data viz library of winning and awesomeness.
+
+http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
+-- learning to learn
