@@ -902,3 +902,6 @@ https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.ht
 
 http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
 -- learning to learn
+
+https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6
+-- pandas optimizations
