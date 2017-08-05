@@ -905,3 +905,6 @@ http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
 
 https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6
 -- pandas optimizations
+
+https://www.technologyreview.com/s/608387/an-algorithm-trained-on-emoji-knows-when-youre-being-sarcastic-on-twitter/?set=608492
+-- detecting sarcasm with emojis
