@@ -908,3 +908,6 @@ https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-s
 
 https://www.technologyreview.com/s/608387/an-algorithm-trained-on-emoji-knows-when-youre-being-sarcastic-on-twitter/?set=608492
 -- detecting sarcasm with emojis
+
+https://github.com/blue-yonder/tsfresh
+--feature extraction for timeseries
