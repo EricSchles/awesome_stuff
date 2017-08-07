@@ -911,3 +911,6 @@ https://www.technologyreview.com/s/608387/an-algorithm-trained-on-emoji-knows-wh
 
 https://github.com/blue-yonder/tsfresh
 --feature extraction for timeseries
+
+https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+-- super good read - debugging neural networks.
