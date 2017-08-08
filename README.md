@@ -917,3 +917,6 @@ https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854
 
 https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning
 -- boosting bagging and stacking explained!
+
+https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.uu8969pK9#.krQ0O0qe0
+-- geo classification example
