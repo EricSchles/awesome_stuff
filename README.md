@@ -920,3 +920,6 @@ https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in
 
 https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.uu8969pK9#.krQ0O0qe0
 -- geo classification example
+
+https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+-- how to use categorical boosting library
