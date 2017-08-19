@@ -923,3 +923,6 @@ https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.uu8969pK9#.krQ
 
 https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 -- how to use categorical boosting library
+
+https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
+-- a good general book on data science
