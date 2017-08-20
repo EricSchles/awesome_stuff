@@ -932,3 +932,6 @@ https://labs.eleks.com/2016/10/combined-different-methods-create-advanced-time-s
 
 https://repositorio-aberto.up.pt/bitstream/10216/82298/2/37884.pdf
 -- spatial timeseries data analysis book
+
+https://pdfs.semanticscholar.org/cb6d/e3eeb810a5fe3341118b492aa94ecd5b8c83.pdf
+-- timeseries analysis
