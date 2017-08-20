@@ -926,3 +926,6 @@ https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data
 
 https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 -- a good general book on data science
+
+https://labs.eleks.com/2016/10/combined-different-methods-create-advanced-time-series-prediction.html
+-- a good use of timeseries techniques
