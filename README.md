@@ -929,3 +929,6 @@ https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 
 https://labs.eleks.com/2016/10/combined-different-methods-create-advanced-time-series-prediction.html
 -- a good use of timeseries techniques
+
+https://repositorio-aberto.up.pt/bitstream/10216/82298/2/37884.pdf
+-- spatial timeseries data analysis book
