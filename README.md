@@ -935,3 +935,6 @@ https://repositorio-aberto.up.pt/bitstream/10216/82298/2/37884.pdf
 
 https://pdfs.semanticscholar.org/cb6d/e3eeb810a5fe3341118b492aa94ecd5b8c83.pdf
 -- timeseries analysis
+
+https://medium.com/towards-data-science/gradient-descend-with-free-monads-ebf9a23bece5
+-- gradient descent in scala
