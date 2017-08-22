@@ -938,3 +938,6 @@ https://pdfs.semanticscholar.org/cb6d/e3eeb810a5fe3341118b492aa94ecd5b8c83.pdf
 
 https://medium.com/towards-data-science/gradient-descend-with-free-monads-ebf9a23bece5
 -- gradient descent in scala
+
+http://www.paddlepaddle.org/
+--baidu's deep learning library
