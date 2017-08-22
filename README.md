@@ -941,3 +941,6 @@ https://medium.com/towards-data-science/gradient-descend-with-free-monads-ebf9a2
 
 http://www.paddlepaddle.org/
 --baidu's deep learning library
+
+https://ringtheory.herokuapp.com/
+-- ring theory database.
