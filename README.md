@@ -947,3 +947,6 @@ https://ringtheory.herokuapp.com/
 
 https://medium.com/twentybn/visual-explanation-for-video-recognition-87e9ba2a675b
 -- categorizing actions
+
+https://github.com/adebayoj/fairml
+-- detect racial bias
