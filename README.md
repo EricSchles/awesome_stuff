@@ -944,3 +944,6 @@ http://www.paddlepaddle.org/
 
 https://ringtheory.herokuapp.com/
 -- ring theory database.
+
+https://medium.com/twentybn/visual-explanation-for-video-recognition-87e9ba2a675b
+-- categorizing actions
