@@ -950,3 +950,6 @@ https://medium.com/twentybn/visual-explanation-for-video-recognition-87e9ba2a675
 
 https://github.com/adebayoj/fairml
 -- detect racial bias
+
+https://oneraynyday.github.io/2017/08/20/VC-Dimensions/
+-- statistical learning blog
