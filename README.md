@@ -953,3 +953,6 @@ https://github.com/adebayoj/fairml
 
 https://oneraynyday.github.io/2017/08/20/VC-Dimensions/
 -- statistical learning blog
+
+https://machinelearning.apple.com/2017/08/06/siri-voices.html?utm_content=buffer1ad8c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- text to speech generation
