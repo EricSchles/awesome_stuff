@@ -956,3 +956,6 @@ https://oneraynyday.github.io/2017/08/20/VC-Dimensions/
 
 https://machinelearning.apple.com/2017/08/06/siri-voices.html?utm_content=buffer1ad8c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- text to speech generation
+
+https://twitter.com/planarrowspace/status/901480960587218944/photo/1
+-- reinforcement learning
