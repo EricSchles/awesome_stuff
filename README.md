@@ -959,3 +959,6 @@ https://machinelearning.apple.com/2017/08/06/siri-voices.html?utm_content=buffer
 
 https://twitter.com/planarrowspace/status/901480960587218944/photo/1
 -- reinforcement learning
+
+https://hackernoon.com/docker-compose-gpu-tensorflow-%EF%B8%8F-a0e2011d36
+--GPU + Docker + tensorflow
