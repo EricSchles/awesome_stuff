@@ -962,3 +962,6 @@ https://twitter.com/planarrowspace/status/901480960587218944/photo/1
 
 https://hackernoon.com/docker-compose-gpu-tensorflow-%EF%B8%8F-a0e2011d36
 --GPU + Docker + tensorflow
+
+http://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources?utm_content=buffer6ddaa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- list of lists of data science things
