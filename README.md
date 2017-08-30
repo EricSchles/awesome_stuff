@@ -965,3 +965,6 @@ https://hackernoon.com/docker-compose-gpu-tensorflow-%EF%B8%8F-a0e2011d36
 
 http://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources?utm_content=buffer6ddaa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- list of lists of data science things
+
+http://nuit-blanche.blogspot.fr/2017/08/projectionnet-learning-efficient-on.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/wCeDd+(Nuit+Blanche
+--projection networks - compressing large network architectures
