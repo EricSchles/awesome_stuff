@@ -968,3 +968,6 @@ http://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-dat
 
 http://nuit-blanche.blogspot.fr/2017/08/projectionnet-learning-efficient-on.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/wCeDd+(Nuit+Blanche
 --projection networks - compressing large network architectures
+
+http://nuit-blanche.blogspot.fr/2017/08/videos-deep-learning-dlss-and.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/wCeDd+(Nuit+Blanche
+-- reinforcement learning videos
