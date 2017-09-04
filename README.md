@@ -971,3 +971,6 @@ http://nuit-blanche.blogspot.fr/2017/08/projectionnet-learning-efficient-on.html
 
 http://nuit-blanche.blogspot.fr/2017/08/videos-deep-learning-dlss-and.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/wCeDd+(Nuit+Blanche
 -- reinforcement learning videos
+
+http://allendowney.blogspot.com/2015/05/hypothesis-testing-is-only-mostly.html
+--the true value of computing the p-value.  This is very interesting because it gives us not only the use-case of the p-value but also a path forward to test for bias as well.
