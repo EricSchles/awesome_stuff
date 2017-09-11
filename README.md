@@ -974,3 +974,6 @@ http://nuit-blanche.blogspot.fr/2017/08/videos-deep-learning-dlss-and.html?utm_s
 
 http://allendowney.blogspot.com/2015/05/hypothesis-testing-is-only-mostly.html
 --the true value of computing the p-value.  This is very interesting because it gives us not only the use-case of the p-value but also a path forward to test for bias as well.
+
+https://gmarti.gitlab.io/ml/2017/09/07/how-to-sort-distance-matrix.html
+--agglomerative clustering algorithm visualization in action!  The idea here is that by first sorting data according to the hierarchical algorithm you can produce a strong and intuitive clustering visualization of your data.
