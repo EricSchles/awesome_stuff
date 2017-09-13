@@ -983,3 +983,6 @@ https://medium.com/towards-data-science/a-brief-overview-of-outlier-detection-te
 
 https://medium.com/towards-data-science/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
 -- A good explanation of the current state of the art for image classification.  This article like most of the articles of this kind cover three techniques - R-CNN, Faster-R-CNN and SSD.  The computational architecture of each model is explained and some mention of where you might find these models, namely tensorflow is mentioned.  They all seem to have similar performance in terms of accuracy.  The main area of interest in this article was speed - how fast do the algorithms run.  This may appear to be a subtle shift, but typically image classification algorithm explainations of read in the past have only been concerned with performance in terms of accuracy.  The fact that folks are now more concerned with speed means we are hitting the upper limit of accuracy.
+
+https://dzone.com/articles/machine-learning-measuring
+-- a good set of distance metrics used in machine learning problems.  
