@@ -977,3 +977,6 @@ http://allendowney.blogspot.com/2015/05/hypothesis-testing-is-only-mostly.html
 
 https://gmarti.gitlab.io/ml/2017/09/07/how-to-sort-distance-matrix.html
 --agglomerative clustering algorithm visualization in action!  The idea here is that by first sorting data according to the hierarchical algorithm you can produce a strong and intuitive clustering visualization of your data.
+
+https://medium.com/towards-data-science/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561
+-- outlier detection - covers a nice overview including three specific examples - z-score, dbscan and isolation forrests.  Unfortunately doesn't cover the rest of the types of algorithms that are mentioned in the high level overview.
