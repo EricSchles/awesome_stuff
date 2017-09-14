@@ -986,3 +986,6 @@ https://medium.com/towards-data-science/deep-learning-for-object-detection-a-com
 
 https://dzone.com/articles/machine-learning-measuring
 -- a good set of distance metrics used in machine learning problems.  
+
+http://goodtables.okfnlabs.org/
+-- data validation
