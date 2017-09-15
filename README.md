@@ -989,3 +989,6 @@ https://dzone.com/articles/machine-learning-measuring
 
 http://goodtables.okfnlabs.org/
 -- data validation
+
+https://userinput.io/#/#examples
+-- userinput testing
