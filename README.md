@@ -995,3 +995,6 @@ https://userinput.io/#/#examples
 
 https://blog.openai.com/unsupervised-sentiment-neuron/
 -- really good sentiment classifier
+
+https://machinelearningmastery.com/transduction-in-machine-learning/
+-- transduction defined
