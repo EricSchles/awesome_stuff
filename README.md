@@ -992,3 +992,6 @@ http://goodtables.okfnlabs.org/
 
 https://userinput.io/#/#examples
 -- userinput testing
+
+https://blog.openai.com/unsupervised-sentiment-neuron/
+-- really good sentiment classifier
