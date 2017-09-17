@@ -998,3 +998,6 @@ https://blog.openai.com/unsupervised-sentiment-neuron/
 
 https://machinelearningmastery.com/transduction-in-machine-learning/
 -- transduction defined
+
+https://www.digitaltrends.com/business/washington-post-robot-reporter-heliograf/?utm_content=buffer20089&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--an article on how machines write our news now
