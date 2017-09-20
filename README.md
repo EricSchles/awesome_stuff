@@ -1001,3 +1001,6 @@ https://machinelearningmastery.com/transduction-in-machine-learning/
 
 https://www.digitaltrends.com/business/washington-post-robot-reporter-heliograf/?utm_content=buffer20089&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --an article on how machines write our news now
+
+https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/
+-- a great introduction to t-SNE
