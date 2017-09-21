@@ -1004,3 +1004,8 @@ https://www.digitaltrends.com/business/washington-post-robot-reporter-heliograf/
 
 https://nlml.github.io/in-raw-numpy/in-raw-numpy-t-sne/
 -- a great introduction to t-SNE
+
+https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+
+https://security-informatics.springeropen.com/articles/10.1186/s13388-017-0029-8
+-- two articles on semi supervised learning
