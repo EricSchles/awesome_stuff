@@ -1012,3 +1012,6 @@ https://security-informatics.springeropen.com/articles/10.1186/s13388-017-0029-8
 
 https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html
 -- a super good intro to geospatial analysis in python
+
+https://github.com/dwillis/nyc-maps.git
+--nyc maps in geojson format
