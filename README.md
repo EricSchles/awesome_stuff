@@ -1009,3 +1009,6 @@ https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-le
 
 https://security-informatics.springeropen.com/articles/10.1186/s13388-017-0029-8
 -- two articles on semi supervised learning
+
+https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html
+-- a super good intro to geospatial analysis in python
