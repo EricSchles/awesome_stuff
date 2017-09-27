@@ -1015,3 +1015,6 @@ https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas
 
 https://github.com/dwillis/nyc-maps.git
 --nyc maps in geojson format
+
+http://jose-coto.com/plotting-geopandas
+--an awesome analysis of plotting points with a geometry
