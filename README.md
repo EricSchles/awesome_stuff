@@ -1018,3 +1018,6 @@ https://github.com/dwillis/nyc-maps.git
 
 http://jose-coto.com/plotting-geopandas
 --an awesome analysis of plotting points with a geometry
+
+https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression#gs.jzWZFRU
+-- a good analysis of the trade off between logistic regression and k-nearest-neighbors.  Knn needs data to scale, logistic regression will do about the same, even with scaled data.
