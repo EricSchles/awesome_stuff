@@ -1024,3 +1024,6 @@ https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-
 
 https://monkeylearn.com/blog/beginners-guide-text-vectorization/
 -- some text classification stuff.  specifically skip thought vectors versus bag of words and then joining the techniques together for better performance.
+
+https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
+-- machine learning tutorial in javascript
