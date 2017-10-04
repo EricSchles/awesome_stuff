@@ -1021,3 +1021,6 @@ http://jose-coto.com/plotting-geopandas
 
 https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression#gs.jzWZFRU
 -- a good analysis of the trade off between logistic regression and k-nearest-neighbors.  Knn needs data to scale, logistic regression will do about the same, even with scaled data.
+
+https://monkeylearn.com/blog/beginners-guide-text-vectorization/
+-- some text classification stuff.  specifically skip thought vectors versus bag of words and then joining the techniques together for better performance.
