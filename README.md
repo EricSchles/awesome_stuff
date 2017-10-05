@@ -1027,3 +1027,6 @@ https://monkeylearn.com/blog/beginners-guide-text-vectorization/
 
 https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
 -- machine learning tutorial in javascript
+
+http://www.kdnuggets.com/2017/10/upcoming-meetings-analytics-big-data-science-machine-learning.html?utm_content=buffer3ed10&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--a good explanation of boosting weak classifiers.  covers gradient boosting and extreme boosting (xgboost)
