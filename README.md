@@ -1030,3 +1030,6 @@ https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
 
 http://www.kdnuggets.com/2017/10/upcoming-meetings-analytics-big-data-science-machine-learning.html?utm_content=buffer3ed10&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --a good explanation of boosting weak classifiers.  covers gradient boosting and extreme boosting (xgboost)
+
+http://www.kdnuggets.com/2017/10/understanding-machine-learning-algorithms.html?utm_content=buffer559a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- a good overview of decision trees, random forests, support vector machines, and neural networks.  The kernal trick of svms is well explained, finally.
