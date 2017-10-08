@@ -1033,3 +1033,6 @@ http://www.kdnuggets.com/2017/10/upcoming-meetings-analytics-big-data-science-ma
 
 http://www.kdnuggets.com/2017/10/understanding-machine-learning-algorithms.html?utm_content=buffer559a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- a good overview of decision trees, random forests, support vector machines, and neural networks.  The kernal trick of svms is well explained, finally.
+
+https://dzone.com/articles/breakthrough-research-papers-and-models-for-sentim
+-- neural network sentiment analysis
