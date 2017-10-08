@@ -1036,3 +1036,6 @@ http://www.kdnuggets.com/2017/10/understanding-machine-learning-algorithms.html?
 
 https://dzone.com/articles/breakthrough-research-papers-and-models-for-sentim
 -- neural network sentiment analysis
+
+http://stackabuse.com/parallel-processing-in-python/
+-- a good introduction to parallel processing
