@@ -1039,3 +1039,6 @@ https://dzone.com/articles/breakthrough-research-papers-and-models-for-sentim
 
 http://stackabuse.com/parallel-processing-in-python/
 -- a good introduction to parallel processing
+
+https://jtsulliv.github.io/stock-movement/?utm_content=buffer0d87f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--a good introduction to brownian motion and Euler-Maruyama Model time series analysis
