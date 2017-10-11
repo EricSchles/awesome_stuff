@@ -1042,3 +1042,6 @@ http://stackabuse.com/parallel-processing-in-python/
 
 https://jtsulliv.github.io/stock-movement/?utm_content=buffer0d87f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --a good introduction to brownian motion and Euler-Maruyama Model time series analysis
+
+https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet
+-- recommender systems
