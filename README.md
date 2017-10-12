@@ -1045,3 +1045,6 @@ https://jtsulliv.github.io/stock-movement/?utm_content=buffer0d87f&utm_medium=so
 
 https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet
 -- recommender systems
+
+https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667
+-- custom object detection in video using tensorflow
