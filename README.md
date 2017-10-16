@@ -1051,3 +1051,9 @@ https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20
 
 https://chatbotnewsdaily.com/since-the-initial-standpoint-of-science-technology-and-ai-scientists-following-blaise-pascal-and-804ac13d8151
 -- a nice little history for machine learning
+
+http://www.bodowinter.com/tutorial/bw_LME_tutorial1.pdf
+--  a good introduction to fixed effects
+
+http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf
+-- a good introduction to mixed effects
