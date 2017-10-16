@@ -1048,3 +1048,6 @@ https://www.oreilly.com/ideas/deep-matrix-factorization-using-apache-mxnet
 
 https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667
 -- custom object detection in video using tensorflow
+
+https://chatbotnewsdaily.com/since-the-initial-standpoint-of-science-technology-and-ai-scientists-following-blaise-pascal-and-804ac13d8151
+-- a nice little history for machine learning
