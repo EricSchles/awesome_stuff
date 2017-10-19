@@ -1057,3 +1057,9 @@ http://www.bodowinter.com/tutorial/bw_LME_tutorial1.pdf
 
 http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf
 -- a good introduction to mixed effects
+
+https://medium.com/towards-data-science/squeeze-and-excitation-networks-9ef5e71eacd7
+-- holy crap!  25% performance jump on imagenet
+
+https://github.com/MaxHalford/xam
+-- interesting ml toolbox
