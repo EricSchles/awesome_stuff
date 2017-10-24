@@ -1063,3 +1063,6 @@ https://medium.com/towards-data-science/squeeze-and-excitation-networks-9ef5e71e
 
 https://github.com/MaxHalford/xam
 -- interesting ml toolbox
+
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.042113
+-- solving problems in physics with precision without an analytic form.
