@@ -1069,3 +1069,6 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.042113
 
 https://wxs.ca/research/multiscale-neural-synthesis/?utm_content=buffer08f81&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --this is cool multiscale neural style synthesis
+
+https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
+--Good intro to state of art in Reinforcement learning
