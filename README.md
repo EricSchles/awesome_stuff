@@ -1066,3 +1066,6 @@ https://github.com/MaxHalford/xam
 
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.042113
 -- solving problems in physics with precision without an analytic form.
+
+https://wxs.ca/research/multiscale-neural-synthesis/?utm_content=buffer08f81&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--this is cool multiscale neural style synthesis
