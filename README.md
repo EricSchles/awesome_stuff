@@ -1072,3 +1072,6 @@ https://wxs.ca/research/multiscale-neural-synthesis/?utm_content=buffer08f81&utm
 
 https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
 --Good intro to state of art in Reinforcement learning
+
+https://github.com/asktree/Asymmetric-Hashing-ANN
+-- asymmetric hashing algorithm from google - uses asymmetric hashing and beam search to speed up automatic reply
