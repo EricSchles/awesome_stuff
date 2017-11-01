@@ -1081,3 +1081,6 @@ https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-py
 
 https://medium.com/towards-data-science/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
 -- some good model introspection techniques here, also a good basic understanding of splines, PCR and PLS
+
+https://dzone.com/articles/optimizing-k-means-clustering-for-time-series-data
+-- time series k-means clustering
