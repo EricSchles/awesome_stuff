@@ -1075,3 +1075,6 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 
 https://github.com/asktree/Asymmetric-Hashing-ANN
 -- asymmetric hashing algorithm from google - uses asymmetric hashing and beam search to speed up automatic reply
+
+https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/
+-- a good introduction to multiple gpu training for keras
