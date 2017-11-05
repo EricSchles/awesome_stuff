@@ -1090,3 +1090,6 @@ https://medium.com/towards-data-science/15-stunning-data-visualizations-and-what
 
 https://twitter.com/AllenDowney/status/926960793261928449
 -- an introduction to bell's inequality
+
+https://www.newnorth.com/creating-a-predictive-churn-mode-part-1l/
+-- churn modeling basics
