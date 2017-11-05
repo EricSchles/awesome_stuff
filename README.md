@@ -1087,3 +1087,6 @@ https://dzone.com/articles/optimizing-k-means-clustering-for-time-series-data
 
 https://medium.com/towards-data-science/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8
 -- a good intro to data visualization best practice
+
+https://twitter.com/AllenDowney/status/926960793261928449
+-- an introduction to bell's inequality
