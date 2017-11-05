@@ -1096,3 +1096,6 @@ https://www.newnorth.com/creating-a-predictive-churn-mode-part-1l/
 
 https://www.datascience.com/blog/what-is-a-churn-analysis-and-why-is-it-valuable-for-business
 -- churn modeling modeling high level
+
+http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
+-- modeling churn with scikit
