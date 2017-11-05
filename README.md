@@ -1093,3 +1093,6 @@ https://twitter.com/AllenDowney/status/926960793261928449
 
 https://www.newnorth.com/creating-a-predictive-churn-mode-part-1l/
 -- churn modeling basics
+
+https://www.datascience.com/blog/what-is-a-churn-analysis-and-why-is-it-valuable-for-business
+-- churn modeling modeling high level
