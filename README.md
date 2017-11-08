@@ -1099,3 +1099,6 @@ https://www.datascience.com/blog/what-is-a-churn-analysis-and-why-is-it-valuable
 
 http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 -- modeling churn with scikit
+
+https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
+-- bayesian book
