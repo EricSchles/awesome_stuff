@@ -1102,3 +1102,6 @@ http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 
 https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
 -- bayesian book
+
+https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/?utm_content=bufferd86a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- convolutional neural networks introduced in a detailed way.
