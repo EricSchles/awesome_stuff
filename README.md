@@ -1105,3 +1105,6 @@ https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
 
 https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/?utm_content=bufferd86a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- convolutional neural networks introduced in a detailed way.
+
+https://github.com/tomlepaine/fast-wavenet
+--fast convnets for timeseries analysis
