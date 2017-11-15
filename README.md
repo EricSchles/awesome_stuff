@@ -1114,3 +1114,6 @@ https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd817
 
 https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
 -- captioning text for images
+
+https://github.com/Mic92/kshape
+-- time series clustering
