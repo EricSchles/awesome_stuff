@@ -1111,3 +1111,6 @@ https://github.com/tomlepaine/fast-wavenet
 
 https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
 -- how to test machine learning code
+
+https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
+-- captioning text for images
