@@ -1108,3 +1108,6 @@ https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/?ut
 
 https://github.com/tomlepaine/fast-wavenet
 --fast convnets for timeseries analysis
+
+https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
+-- how to test machine learning code
