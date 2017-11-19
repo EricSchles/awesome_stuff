@@ -1117,3 +1117,6 @@ https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-l
 
 https://github.com/Mic92/kshape
 -- time series clustering
+
+https://www.slideshare.net/HamdanAzhar1/open-data-science-west-introduction-to-emoji-data-science-hamdan-azhar-nov-3-2017-81595966?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bzm0bIKk7TjaWWw5P7THNGA%3D%3D
+--emoji's are also data
