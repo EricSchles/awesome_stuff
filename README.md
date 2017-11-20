@@ -1129,3 +1129,6 @@ https://www.datasciencecentral.com/forum/topics/k-means-clustering-effect-of-ran
 
 https://randomekek.github.io/deep/deeplearning.html
 --deep learning reference
+
+https://medium.com/singular-distillation/little-explanations-information-bottleneck-theory-its-possible-link-to-neural-networks-1d4df1badf72
+-- mutual information used to study neural networks.  I say, so what?  But maybe this is a useful thing.
