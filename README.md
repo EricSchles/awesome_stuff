@@ -1132,3 +1132,6 @@ https://randomekek.github.io/deep/deeplearning.html
 
 https://medium.com/singular-distillation/little-explanations-information-bottleneck-theory-its-possible-link-to-neural-networks-1d4df1badf72
 -- mutual information used to study neural networks.  I say, so what?  But maybe this is a useful thing.
+
+https://schedule.readthedocs.io/en/stable/
+--a simple scheduler
