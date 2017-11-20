@@ -1120,3 +1120,6 @@ https://github.com/Mic92/kshape
 
 https://www.slideshare.net/HamdanAzhar1/open-data-science-west-introduction-to-emoji-data-science-hamdan-azhar-nov-3-2017-81595966?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bzm0bIKk7TjaWWw5P7THNGA%3D%3D
 --emoji's are also data
+
+http://vertex.ai/blog/announcing-plaidml?utm_content=buffereb80a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+--an altnerative to the tensorflow backend
