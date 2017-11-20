@@ -1135,3 +1135,6 @@ https://medium.com/singular-distillation/little-explanations-information-bottlen
 
 https://schedule.readthedocs.io/en/stable/
 --a simple scheduler
+
+https://www.youtube.com/watch?v=3VQ382QG-y4&feature=youtu.be
+--an introduction to lambda calculus
