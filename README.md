@@ -1123,3 +1123,6 @@ https://www.slideshare.net/HamdanAzhar1/open-data-science-west-introduction-to-e
 
 http://vertex.ai/blog/announcing-plaidml?utm_content=buffereb80a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 --an altnerative to the tensorflow backend
+
+https://www.datasciencecentral.com/forum/topics/k-means-clustering-effect-of-random-seed?utm_content=buffer9a2fb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- seed matters for k-means
