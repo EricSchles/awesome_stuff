@@ -1126,3 +1126,6 @@ http://vertex.ai/blog/announcing-plaidml?utm_content=buffereb80a&utm_medium=soci
 
 https://www.datasciencecentral.com/forum/topics/k-means-clustering-effect-of-random-seed?utm_content=buffer9a2fb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- seed matters for k-means
+
+https://randomekek.github.io/deep/deeplearning.html
+--deep learning reference
