@@ -1144,3 +1144,6 @@ https://github.com/stitchfix/diamond
 
 https://github.com/civisanalytics/civisml-extensions
 -- scikit learning classifier and regressor stacking
+
+https://github.com/caseyclements/pennies
+-- advanced time series modeling in python
