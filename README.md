@@ -1138,3 +1138,6 @@ https://schedule.readthedocs.io/en/stable/
 
 https://www.youtube.com/watch?v=3VQ382QG-y4&feature=youtu.be
 --an introduction to lambda calculus
+
+https://github.com/stitchfix/diamond
+-- mixed effects models in python
