@@ -1147,3 +1147,9 @@ https://github.com/civisanalytics/civisml-extensions
 
 https://github.com/caseyclements/pennies
 -- advanced time series modeling in python
+
+https://arxiv.org/pdf/1607.06520.pdf
+-- super good paper on identifying gender bias
+
+https://github.com/ericmjl/bayesian-analysis-recipes
+-- bayesian deep learning examples
