@@ -1141,3 +1141,6 @@ https://www.youtube.com/watch?v=3VQ382QG-y4&feature=youtu.be
 
 https://github.com/stitchfix/diamond
 -- mixed effects models in python
+
+https://github.com/civisanalytics/civisml-extensions
+-- scikit learning classifier and regressor stacking
