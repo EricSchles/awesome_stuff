@@ -1153,3 +1153,6 @@ https://arxiv.org/pdf/1607.06520.pdf
 
 https://github.com/ericmjl/bayesian-analysis-recipes
 -- bayesian deep learning examples
+
+https://github.com/mila-udem
+-- a very neat collection of tools
