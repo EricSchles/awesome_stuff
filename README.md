@@ -1156,3 +1156,6 @@ https://github.com/ericmjl/bayesian-analysis-recipes
 
 https://github.com/mila-udem
 -- a very neat collection of tools
+
+https://github.com/bnaul/IrregularTimeSeriesAutoencoderPaper
+-- A recurrent neural network for classification of unevenly sampled variable stars
