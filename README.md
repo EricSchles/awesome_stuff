@@ -1159,3 +1159,6 @@ https://github.com/mila-udem
 
 https://github.com/bnaul/IrregularTimeSeriesAutoencoderPaper
 -- A recurrent neural network for classification of unevenly sampled variable stars
+
+https://www.youtube.com/user/PyDataTV/videos
+-- pydata videos
