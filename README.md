@@ -1162,3 +1162,6 @@ https://github.com/bnaul/IrregularTimeSeriesAutoencoderPaper
 
 https://www.youtube.com/user/PyDataTV/videos
 -- pydata videos
+
+https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html?utm_content=buffere2903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- time series feature engineering
