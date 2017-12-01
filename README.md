@@ -1165,3 +1165,6 @@ https://www.youtube.com/user/PyDataTV/videos
 
 https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html?utm_content=buffere2903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- time series feature engineering
+
+http://www.nehalemlabs.net/prototype/blog/2013/04/05/an-introduction-to-smoothing-time-series-in-python-part-i-filtering-theory/
+-- a bunch of smoothing techniques
