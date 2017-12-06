@@ -1168,3 +1168,6 @@ https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data
 
 http://www.nehalemlabs.net/prototype/blog/2013/04/05/an-introduction-to-smoothing-time-series-in-python-part-i-filtering-theory/
 -- a bunch of smoothing techniques
+
+https://www.kdnuggets.com/2017/07/when-not-use-deep-learning.html
+-- fantastic explanation of deep learning
