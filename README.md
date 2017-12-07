@@ -1174,3 +1174,6 @@ https://www.kdnuggets.com/2017/07/when-not-use-deep-learning.html
 
 https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html?utm_content=bufferd0f6b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- a survey of statistical techniques
+
+https://www.fullstackpython.com/blog/first-steps-gitpython.html
+-- python git client
