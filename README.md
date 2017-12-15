@@ -1177,3 +1177,6 @@ https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need
 
 https://www.fullstackpython.com/blog/first-steps-gitpython.html
 -- python git client
+
+http://pbpython.com/market-basket-analysis.html
+-- aprori algorithm at work
