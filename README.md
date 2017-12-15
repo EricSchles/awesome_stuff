@@ -1180,3 +1180,6 @@ https://www.fullstackpython.com/blog/first-steps-gitpython.html
 
 http://pbpython.com/market-basket-analysis.html
 -- aprori algorithm at work
+
+https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
+-- music word2vec
