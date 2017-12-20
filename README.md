@@ -1186,3 +1186,6 @@ https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac
 
 http://rlhick.people.wm.edu/posts/estimating-custom-mle.html
 -- how to write a custom MLE with OLS as an example
+
+https://github.com/ipython-books/cookbook-code
+-- a cookbook of a lot of scientific computing stuff.  Mostly a bunch of great patterns for using numpy.
