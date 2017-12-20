@@ -1183,3 +1183,6 @@ http://pbpython.com/market-basket-analysis.html
 
 https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
 -- music word2vec
+
+http://rlhick.people.wm.edu/posts/estimating-custom-mle.html
+-- how to write a custom MLE with OLS as an example
