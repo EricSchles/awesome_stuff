@@ -1189,3 +1189,6 @@ http://rlhick.people.wm.edu/posts/estimating-custom-mle.html
 
 https://github.com/ipython-books/cookbook-code
 -- a cookbook of a lot of scientific computing stuff.  Mostly a bunch of great patterns for using numpy.
+
+https://pypi.python.org/pypi/thinkx/1.1.2
+--thinkbayes package
