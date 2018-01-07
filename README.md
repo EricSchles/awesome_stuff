@@ -1192,3 +1192,6 @@ https://github.com/ipython-books/cookbook-code
 
 https://pypi.python.org/pypi/thinkx/1.1.2
 --thinkbayes package
+
+https://brilliant.org/wiki/stationary-distributions/
+-- a very good introduction to Markov Chains.  Sadly I know understand graphs, as a consequence, to be just another representation of matrices.  Also, markov chains do finally make sense.  And interestingly, you can find the steady states of Markov Chains from time to time.  (joke)
