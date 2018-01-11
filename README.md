@@ -1198,3 +1198,6 @@ https://brilliant.org/wiki/stationary-distributions/
 
 https://github.com/scrat-online/pySTARMA
 -- geospatial timeseries ARIMA algorithm.  Looks out of date, consider updating.
+
+https://github.com/wkentaro/labelme
+-- an image annotation tool, which may be useful for annotating various images in image training sets.
