@@ -1204,3 +1204,6 @@ https://github.com/wkentaro/labelme
 
 https://cupy.chainer.org/?utm_content=bufferc0bef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- numpy written for cuda
+
+https://einstein.ai/research/hierarchical-reinforcement-learning?utm_content=bufferdcdd1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- hierarchical RL language models
