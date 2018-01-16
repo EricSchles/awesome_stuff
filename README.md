@@ -1207,3 +1207,6 @@ https://cupy.chainer.org/?utm_content=bufferc0bef&utm_medium=social&utm_source=t
 
 https://einstein.ai/research/hierarchical-reinforcement-learning?utm_content=bufferdcdd1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- hierarchical RL language models
+
+https://github.com/artpar/languagecrunch
+-- an NLP server ready to go
