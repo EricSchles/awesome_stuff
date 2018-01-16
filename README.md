@@ -1201,3 +1201,6 @@ https://github.com/scrat-online/pySTARMA
 
 https://github.com/wkentaro/labelme
 -- an image annotation tool, which may be useful for annotating various images in image training sets.
+
+https://cupy.chainer.org/?utm_content=bufferc0bef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- numpy written for cuda
