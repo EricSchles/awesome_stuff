@@ -1210,3 +1210,6 @@ https://einstein.ai/research/hierarchical-reinforcement-learning?utm_content=buf
 
 https://github.com/artpar/languagecrunch
 -- an NLP server ready to go
+
+https://blog.dominodatalab.com/bias-policing-analysis-traffic-stop-data/?utm_content=buffer8976c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+-- a great analysis of racial bias
