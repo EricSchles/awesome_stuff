@@ -1213,3 +1213,6 @@ https://github.com/artpar/languagecrunch
 
 https://blog.dominodatalab.com/bias-policing-analysis-traffic-stop-data/?utm_content=buffer8976c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 -- a great analysis of racial bias
+
+https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8
+-- a good example of how to use sequence to sequence models in industry.
