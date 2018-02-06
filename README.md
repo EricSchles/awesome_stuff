@@ -1216,3 +1216,6 @@ https://blog.dominodatalab.com/bias-policing-analysis-traffic-stop-data/?utm_con
 
 https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8
 -- a good example of how to use sequence to sequence models in industry.
+
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+-- great intro to cross validation, k-fold for sklearn
