@@ -1219,3 +1219,9 @@ https://towardsdatascience.com/how-to-create-data-products-that-are-magical-usin
 
 https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
 -- great intro to cross validation, k-fold for sklearn
+
+https://github.com/chrispaulca/waterfall
+--waterfall is an interesting visualization tool.  Most interestingly, it can be used in conjunction with treeinterpretter to produce visualizations for tree based model interpretation - since you can retrain any model on a tree structure, this can be used as a general interpretability visualization across feature space.
+
+https://github.com/andosa/treeinterpreter
+-- tree interpreter interprets tree based models of any kind.  Looks very promising for understanding various models.
