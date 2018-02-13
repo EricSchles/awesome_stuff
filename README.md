@@ -1225,3 +1225,6 @@ https://github.com/chrispaulca/waterfall
 
 https://github.com/andosa/treeinterpreter
 -- tree interpreter interprets tree based models of any kind.  Looks very promising for understanding various models.
+
+https://openreview.net/
+-- very interesting set of resources on the papers to understand and internalize within ML
