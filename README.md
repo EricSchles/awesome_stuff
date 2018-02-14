@@ -1228,3 +1228,6 @@ https://github.com/andosa/treeinterpreter
 
 https://openreview.net/
 -- very interesting set of resources on the papers to understand and internalize within ML
+
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+-- a good explaination of feature engineering for logistic regression
