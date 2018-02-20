@@ -1231,3 +1231,6 @@ https://openreview.net/
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 -- a good explaination of feature engineering for logistic regression
+
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
+-- used to assess the quality of clustering algorithms
