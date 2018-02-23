@@ -1234,3 +1234,6 @@ https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-
 
 https://en.wikipedia.org/wiki/Silhouette_(clustering)
 -- used to assess the quality of clustering algorithms
+
+https://www.youtube.com/watch?v=MIKYRZc9A1M
+-- a fantastic deconstruction of superman
