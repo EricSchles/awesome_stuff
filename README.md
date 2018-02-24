@@ -1237,3 +1237,6 @@ https://en.wikipedia.org/wiki/Silhouette_(clustering)
 
 https://www.youtube.com/watch?v=MIKYRZc9A1M
 -- a fantastic deconstruction of superman
+
+https://www.youtube.com/watch?v=R13BD8qKeTg
+-- best introduction to bayes I've ever seen
