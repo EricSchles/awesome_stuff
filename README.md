@@ -1240,3 +1240,6 @@ https://www.youtube.com/watch?v=MIKYRZc9A1M
 
 https://www.youtube.com/watch?v=R13BD8qKeTg
 -- best introduction to bayes I've ever seen
+
+https://github.com/bmabey/pyLDAvis
+-- LDA visualization library
