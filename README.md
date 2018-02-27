@@ -1243,3 +1243,6 @@ https://www.youtube.com/watch?v=R13BD8qKeTg
 
 https://github.com/bmabey/pyLDAvis
 -- LDA visualization library
+
+http://scikit-learn.org/stable/related_projects.html
+-- a great list of related packages and tools
