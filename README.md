@@ -1246,3 +1246,6 @@ https://github.com/bmabey/pyLDAvis
 
 http://scikit-learn.org/stable/related_projects.html
 -- a great list of related packages and tools
+
+https://github.com/cytoscape/cytoscape.js
+-- graph visualization js library
