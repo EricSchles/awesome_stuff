@@ -1252,3 +1252,6 @@ https://github.com/cytoscape/cytoscape.js
 
 https://realpython.com/blog/python/python-matplotlib-guide/
 -- a good introduction to matplotlib
+
+https://gist.github.com/aronwc/8248457
+-- gensim and sklearn together
