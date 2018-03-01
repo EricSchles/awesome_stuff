@@ -1249,3 +1249,6 @@ http://scikit-learn.org/stable/related_projects.html
 
 https://github.com/cytoscape/cytoscape.js
 -- graph visualization js library
+
+https://realpython.com/blog/python/python-matplotlib-guide/
+-- a good introduction to matplotlib
