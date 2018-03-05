@@ -1255,3 +1255,6 @@ https://realpython.com/blog/python/python-matplotlib-guide/
 
 https://gist.github.com/aronwc/8248457
 -- gensim and sklearn together
+
+https://en.wikipedia.org/wiki/Synthetic_control_method
+-- a way of doing natural experiments
