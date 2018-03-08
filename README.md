@@ -1264,3 +1264,6 @@ http://ecocontrol.readthedocs.io/en/latest/index.html
 
 http://www.cs.cornell.edu/~tomf/pyglpk/glpk.html
 -- interesting looking package
+
+https://github.com/laspy/laspy
+-- LiDAR
