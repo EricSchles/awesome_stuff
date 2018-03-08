@@ -1261,3 +1261,6 @@ https://en.wikipedia.org/wiki/Synthetic_control_method
 
 http://ecocontrol.readthedocs.io/en/latest/index.html
 -- interesting timeseries forecasting system
+
+http://www.cs.cornell.edu/~tomf/pyglpk/glpk.html
+-- interesting looking package
