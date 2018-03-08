@@ -1258,3 +1258,6 @@ https://gist.github.com/aronwc/8248457
 
 https://en.wikipedia.org/wiki/Synthetic_control_method
 -- a way of doing natural experiments
+
+http://ecocontrol.readthedocs.io/en/latest/index.html
+-- interesting timeseries forecasting system
