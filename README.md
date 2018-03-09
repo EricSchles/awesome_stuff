@@ -1273,3 +1273,6 @@ https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
 
 https://www.linkedin.com/pulse/4-reasons-your-machine-learning-model-wrong-how-fix-bilal-mahmood/
 -- bias variance trade off and precision recall
+
+https://www.kaggle.com/marknagelberg/rmsle-function
+-- root mean squared loss error function
