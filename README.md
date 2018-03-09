@@ -1276,3 +1276,6 @@ https://www.linkedin.com/pulse/4-reasons-your-machine-learning-model-wrong-how-f
 
 https://www.kaggle.com/marknagelberg/rmsle-function
 -- root mean squared loss error function
+
+http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html
+-- timeseries automl R
