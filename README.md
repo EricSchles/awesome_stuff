@@ -1267,3 +1267,6 @@ http://www.cs.cornell.edu/~tomf/pyglpk/glpk.html
 
 https://github.com/laspy/laspy
 -- LiDAR
+
+https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
+-- batch renormalization, better than batch normalization
