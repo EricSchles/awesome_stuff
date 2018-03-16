@@ -1279,3 +1279,6 @@ https://www.kaggle.com/marknagelberg/rmsle-function
 
 http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html
 -- timeseries automl R
+
+https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138
+-- pandas numba dask performance benchmarking
