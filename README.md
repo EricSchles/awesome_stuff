@@ -1285,3 +1285,6 @@ https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-p
 
 https://machinelearningmastery.com/keras-functional-api-deep-learning/
 -- shared layers neural network architecture for keras
+
+https://github.com/titu1994/BatchRenormalization
+-- batch renormalization in keras
