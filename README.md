@@ -1282,3 +1282,6 @@ http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html
 
 https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138
 -- pandas numba dask performance benchmarking
+
+https://machinelearningmastery.com/keras-functional-api-deep-learning/
+-- shared layers neural network architecture for keras
