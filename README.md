@@ -1288,3 +1288,6 @@ https://machinelearningmastery.com/keras-functional-api-deep-learning/
 
 https://github.com/titu1994/BatchRenormalization
 -- batch renormalization in keras
+
+https://www.programcreek.com/python/example/83247/sklearn.cross_validation.KFold
+-- a good set of automl and cross validation techniques
