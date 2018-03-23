@@ -1291,3 +1291,6 @@ https://github.com/titu1994/BatchRenormalization
 
 https://www.programcreek.com/python/example/83247/sklearn.cross_validation.KFold
 -- a good set of automl and cross validation techniques
+
+https://github.com/Britefury/batchup
+-- a program for batching datasets.
