@@ -1294,3 +1294,6 @@ https://www.programcreek.com/python/example/83247/sklearn.cross_validation.KFold
 
 https://github.com/Britefury/batchup
 -- a program for batching datasets.
+
+https://github.com/mdbloice/Augmentor
+-- image augmentation library for deep learning
