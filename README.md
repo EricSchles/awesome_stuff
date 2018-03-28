@@ -1297,3 +1297,5 @@ https://github.com/Britefury/batchup
 
 https://github.com/mdbloice/Augmentor
 -- image augmentation library for deep learning
+
+https://github.com/HIPS/molecule-autoencoder
