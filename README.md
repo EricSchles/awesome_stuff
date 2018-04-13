@@ -1299,3 +1299,6 @@ https://github.com/mdbloice/Augmentor
 -- image augmentation library for deep learning
 
 https://github.com/HIPS/molecule-autoencoder
+
+https://brightthemag.com/legalizing-sex-work-spain-prostitution-human-rights-trafficking-immigration-gender-78b96c05e6fa
+-- what happens when you decriminalize sex
