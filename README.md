@@ -1308,3 +1308,6 @@ https://www.arxiv-vanity.com/papers/1803.04488/
 
 https://www.oreilly.com/ideas/introducing-capsule-networks
 -- capsule net introduction
+
+https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc
+-- another great intro to capsule net
