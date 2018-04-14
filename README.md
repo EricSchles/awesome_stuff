@@ -1305,3 +1305,6 @@ https://brightthemag.com/legalizing-sex-work-spain-prostitution-human-rights-tra
 
 https://www.arxiv-vanity.com/papers/1803.04488/
 -- concept2vec - embeddings for ontological concepts
+
+https://www.oreilly.com/ideas/introducing-capsule-networks
+-- capsule net introduction
