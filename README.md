@@ -1302,3 +1302,6 @@ https://github.com/HIPS/molecule-autoencoder
 
 https://brightthemag.com/legalizing-sex-work-spain-prostitution-human-rights-trafficking-immigration-gender-78b96c05e6fa
 -- what happens when you decriminalize sex
+
+https://www.arxiv-vanity.com/papers/1803.04488/
+-- concept2vec - embeddings for ontological concepts
