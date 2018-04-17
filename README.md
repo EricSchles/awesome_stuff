@@ -1311,3 +1311,6 @@ https://www.oreilly.com/ideas/introducing-capsule-networks
 
 https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc
 -- another great intro to capsule net
+
+https://stackoverflow.com/questions/11404156/how-do-i-replace-text-in-a-selection
+-- sublime magic - replace text in selected area
