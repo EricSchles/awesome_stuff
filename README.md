@@ -1317,3 +1317,6 @@ https://stackoverflow.com/questions/11404156/how-do-i-replace-text-in-a-selectio
 
 https://www.youtube.com/watch?v=CY3t11vuuOM
 -- introduction to LIME
+
+https://github.com/Ahmkel/Keras-Project-Template/blob/master/README.md
+-- keras templates
