@@ -1323,3 +1323,11 @@ https://github.com/Ahmkel/Keras-Project-Template/blob/master/README.md
 
 http://sigmajs.org/
 --sigma.js graph visualization library
+
+List intersection:
+
+https://stackoverflow.com/questions/6369527/python-list-intersection-efficiency-generator-or-filter
+
+https://www.geeksforgeeks.org/python-intersection-two-lists/
+
+-- efficiently combine two lists
