@@ -1334,3 +1334,6 @@ https://www.geeksforgeeks.org/python-intersection-two-lists/
 
 https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9
 -- linear regression in Python, explained well
+
+http://readingthemarkets.blogspot.com/2010/11/critique-of-granger-causality.html
+--criticism of granger causality
