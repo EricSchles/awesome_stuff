@@ -1331,3 +1331,6 @@ https://stackoverflow.com/questions/6369527/python-list-intersection-efficiency-
 https://www.geeksforgeeks.org/python-intersection-two-lists/
 
 -- efficiently combine two lists
+
+https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9
+-- linear regression in Python, explained well
