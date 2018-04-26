@@ -1337,3 +1337,6 @@ https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c
 
 http://readingthemarkets.blogspot.com/2010/11/critique-of-granger-causality.html
 --criticism of granger causality
+
+http://www.statsoft.com/Textbook/Time-Series-Analysis#lags
+-- statistics book
