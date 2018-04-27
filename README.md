@@ -1340,3 +1340,6 @@ http://readingthemarkets.blogspot.com/2010/11/critique-of-granger-causality.html
 
 http://www.statsoft.com/Textbook/Time-Series-Analysis#lags
 -- statistics book
+
+https://danielcscheer.files.wordpress.com/2012/03/food-stamps-and-poverty-irp-2012.pdf
+-- a good explanation of a lot of things.  A great explaination of the matching problem.
