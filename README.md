@@ -1349,3 +1349,6 @@ https://medium.com/@Francesco_AI/artificial-intelligence-verticals-ii-fintech-da
 
 http://brohrer.github.io/how_convolutional_neural_networks_work.html
 --intro to conv nets
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+-- intro to conv nets
