@@ -1343,3 +1343,6 @@ http://www.statsoft.com/Textbook/Time-Series-Analysis#lags
 
 https://danielcscheer.files.wordpress.com/2012/03/food-stamps-and-poverty-irp-2012.pdf
 -- a good explanation of a lot of things.  A great explaination of the matching problem.
+
+https://medium.com/@Francesco_AI/artificial-intelligence-verticals-ii-fintech-daf6f0bd302c
+-- finance DIY
