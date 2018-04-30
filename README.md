@@ -1346,3 +1346,6 @@ https://danielcscheer.files.wordpress.com/2012/03/food-stamps-and-poverty-irp-20
 
 https://medium.com/@Francesco_AI/artificial-intelligence-verticals-ii-fintech-daf6f0bd302c
 -- finance DIY
+
+http://brohrer.github.io/how_convolutional_neural_networks_work.html
+--intro to conv nets
