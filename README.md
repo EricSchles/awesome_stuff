@@ -1355,3 +1355,6 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Unde
 
 http://betatim.github.io/posts/bayesian-hyperparameter-search/
 --smarter grid search
+
+https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5
+--jupyter notebook to slides
