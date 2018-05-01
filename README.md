@@ -1360,4 +1360,4 @@ https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupy
 --jupyter notebook to slides
 
 https://explosion.ai/blog/sense2vec-with-spacy
--- sense to vec
+-- sense to vec - part of speech aware word2vec
