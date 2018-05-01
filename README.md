@@ -1358,3 +1358,6 @@ http://betatim.github.io/posts/bayesian-hyperparameter-search/
 
 https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5
 --jupyter notebook to slides
+
+https://explosion.ai/blog/sense2vec-with-spacy
+-- sense to vec
