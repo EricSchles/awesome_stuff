@@ -1352,3 +1352,6 @@ http://brohrer.github.io/how_convolutional_neural_networks_work.html
 
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 -- intro to conv nets
+
+http://betatim.github.io/posts/bayesian-hyperparameter-search/
+--smarter grid search
