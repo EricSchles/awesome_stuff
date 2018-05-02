@@ -1364,3 +1364,6 @@ https://explosion.ai/blog/sense2vec-with-spacy
 
 https://homes.cs.washington.edu/~marcotcr/blog/lime/
 -- LIME intro
+
+https://github.com/TeamHG-Memex/eli5
+--super interesting explainability of models
