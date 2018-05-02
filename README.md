@@ -1367,3 +1367,6 @@ https://homes.cs.washington.edu/~marcotcr/blog/lime/
 
 https://github.com/TeamHG-Memex/eli5
 --super interesting explainability of models
+
+https://keras.io/getting-started/functional-api-guide/
+--play with this for more sophisticated models
