@@ -1361,3 +1361,6 @@ https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupy
 
 https://explosion.ai/blog/sense2vec-with-spacy
 -- sense to vec - part of speech aware word2vec
+
+https://homes.cs.washington.edu/~marcotcr/blog/lime/
+-- LIME intro
