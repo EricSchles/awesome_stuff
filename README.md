@@ -1370,3 +1370,6 @@ https://github.com/TeamHG-Memex/eli5
 
 https://keras.io/getting-started/functional-api-guide/
 --play with this for more sophisticated models
+
+https://github.com/farizrahman4u/seq2seq
+-- seq2seq code keras
