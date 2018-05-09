@@ -1376,3 +1376,6 @@ https://github.com/farizrahman4u/seq2seq
 
 https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a
 -- state of the art neural networks
+
+https://stats.stackexchange.com/questions/84076/negative-values-for-aic-in-general-mixed-model
+--A good interpretation of AIC and how to deal with negative values
