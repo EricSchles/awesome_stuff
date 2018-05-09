@@ -1379,3 +1379,6 @@ https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-stat
 
 https://stats.stackexchange.com/questions/84076/negative-values-for-aic-in-general-mixed-model
 --A good interpretation of AIC and how to deal with negative values
+
+https://www.datasciencecentral.com/profiles/blogs/swarm-optimization-goodbye-gradients
+-- alternative to stochastic gradient descent
