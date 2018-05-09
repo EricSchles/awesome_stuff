@@ -1373,3 +1373,6 @@ https://keras.io/getting-started/functional-api-guide/
 
 https://github.com/farizrahman4u/seq2seq
 -- seq2seq code keras
+
+https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a
+-- state of the art neural networks
