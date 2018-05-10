@@ -1385,3 +1385,6 @@ https://www.datasciencecentral.com/profiles/blogs/swarm-optimization-goodbye-gra
 
 https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
 -- boosting versus bagging
+
+https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
+-- subtle differences between xgboost and gradient boosted trees
