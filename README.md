@@ -1388,3 +1388,6 @@ https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
 
 https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
 -- subtle differences between xgboost and gradient boosted trees
+
+http://www.swig.org/Doc1.3/Python.html
+--Cython like tool
