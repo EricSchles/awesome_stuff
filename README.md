@@ -1382,3 +1382,6 @@ https://stats.stackexchange.com/questions/84076/negative-values-for-aic-in-gener
 
 https://www.datasciencecentral.com/profiles/blogs/swarm-optimization-goodbye-gradients
 -- alternative to stochastic gradient descent
+
+https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
+-- boosting versus bagging
