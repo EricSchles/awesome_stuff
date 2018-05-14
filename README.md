@@ -1391,3 +1391,6 @@ https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
 
 http://www.swig.org/Doc1.3/Python.html
 --Cython like tool
+
+https://blog.jle.im/entry/purely-functional-typed-models-1.html
+-- machine learning in haskell
