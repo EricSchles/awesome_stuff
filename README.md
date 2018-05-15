@@ -1394,3 +1394,9 @@ http://www.swig.org/Doc1.3/Python.html
 
 https://blog.jle.im/entry/purely-functional-typed-models-1.html
 -- machine learning in haskell
+
+https://www.coursera.org/specializations/aml?siteID=lVarvwc5BD0-BShznKdc3CUauhfsM7_8xw&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=lVarvwc5BD0
+-- coursera deep learning specialization
+
+https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=32639001341&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=176442054671&hide_mobile_promo&gclid=Cj0KCQjw5-TXBRCHARIsANLixNzthz0on3vVC1Vg9ldWyDzt0pY_0s2sdmUmKOPX7_H2UPH5GIA1vY4aAvDxEALw_wcB
+-- deep learning coursera
