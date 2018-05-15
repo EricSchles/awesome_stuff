@@ -1406,3 +1406,9 @@ https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizati
 
 https://www.youtube.com/watch?v=jpNLp9SnTF8&t=1581s
 --interesting neural network architecture - attention, memory
+
+https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/?utm_source=dlvr.it&utm_medium=twitter
+-- introduction to nonparametric tests
+
+https://multithreaded.stitchfix.com/blog/2018/05/14/two-things-about-power/
+-- really great post on the power test
