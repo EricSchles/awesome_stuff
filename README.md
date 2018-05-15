@@ -1403,3 +1403,6 @@ https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&cam
 
 https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e
 --data visualization automated with sequence to sequence vectors
+
+https://www.youtube.com/watch?v=jpNLp9SnTF8&t=1581s
+--interesting neural network architecture - attention, memory
