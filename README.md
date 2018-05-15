@@ -1400,3 +1400,6 @@ https://www.coursera.org/specializations/aml?siteID=lVarvwc5BD0-BShznKdc3CUauhfs
 
 https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=32639001341&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=176442054671&hide_mobile_promo&gclid=Cj0KCQjw5-TXBRCHARIsANLixNzthz0on3vVC1Vg9ldWyDzt0pY_0s2sdmUmKOPX7_H2UPH5GIA1vY4aAvDxEALw_wcB
 -- deep learning coursera
+
+https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e
+--data visualization automated with sequence to sequence vectors
