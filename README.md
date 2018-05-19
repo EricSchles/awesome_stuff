@@ -1412,3 +1412,6 @@ https://machinelearningmastery.com/nonparametric-statistical-significance-tests-
 
 https://multithreaded.stitchfix.com/blog/2018/05/14/two-things-about-power/
 -- really great post on the power test
+
+http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+--feature selection with sklearn
