@@ -1415,3 +1415,6 @@ https://multithreaded.stitchfix.com/blog/2018/05/14/two-things-about-power/
 
 http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
 --feature selection with sklearn
+
+https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
+-- reinterpretation of a very contraversal paper...Don't think I completely agree
