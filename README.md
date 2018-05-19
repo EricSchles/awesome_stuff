@@ -1418,3 +1418,6 @@ http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe
 
 https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 -- reinterpretation of a very contraversal paper...Don't think I completely agree
+
+https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
+--grid search for timeseries
