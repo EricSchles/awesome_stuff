@@ -1427,3 +1427,6 @@ https://www.aiworkbox.com/lessons/specify-pytorch-tensor-minimum-value-threshold
 
 https://stats.stackexchange.com/questions/145566/how-to-calculate-area-under-the-curve-auc-or-the-c-statistic-by-hand
 --AUC explained, in detail
+
+https://www.kaggle.com/jayatou/xgbregressor-with-gridsearchcv
+-- good basic xgboost example
