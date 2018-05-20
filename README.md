@@ -1424,3 +1424,6 @@ https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python
 
 https://www.aiworkbox.com/lessons/specify-pytorch-tensor-minimum-value-threshold
 --aiworkbox deep learning tutorials
+
+https://stats.stackexchange.com/questions/145566/how-to-calculate-area-under-the-curve-auc-or-the-c-statistic-by-hand
+--AUC explained, in detail
