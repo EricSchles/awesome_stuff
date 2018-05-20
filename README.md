@@ -1421,3 +1421,6 @@ https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 
 https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
 --grid search for timeseries
+
+https://www.aiworkbox.com/lessons/specify-pytorch-tensor-minimum-value-threshold
+--aiworkbox deep learning tutorials
