@@ -1433,3 +1433,6 @@ https://www.kaggle.com/jayatou/xgbregressor-with-gridsearchcv
 
 https://python-graph-gallery.com/
 --graph visualization examples galor!
+
+https://www.youtube.com/watch?v=-sIOMs4MSuA
+-- Bayesian modeling non-parametric
