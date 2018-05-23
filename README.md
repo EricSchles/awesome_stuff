@@ -1430,3 +1430,6 @@ https://stats.stackexchange.com/questions/145566/how-to-calculate-area-under-the
 
 https://www.kaggle.com/jayatou/xgbregressor-with-gridsearchcv
 -- good basic xgboost example
+
+https://python-graph-gallery.com/
+--graph visualization examples galor!
