@@ -1436,3 +1436,6 @@ https://python-graph-gallery.com/
 
 https://www.youtube.com/watch?v=-sIOMs4MSuA
 -- Bayesian modeling non-parametric
+
+https://opendatascience.com/lime-can-make-you-better-at-machine-learning/?utm_content=71572600&utm_medium=social&utm_source=twitter
+-- LIME intro
