@@ -1439,3 +1439,6 @@ https://www.youtube.com/watch?v=-sIOMs4MSuA
 
 https://opendatascience.com/lime-can-make-you-better-at-machine-learning/?utm_content=71572600&utm_medium=social&utm_source=twitter
 -- LIME intro
+
+https://github.com/marcotcr/lime/blob/master/doc/notebooks/Lime%20with%20Recurrent%20Neural%20Networks.ipynb
+-- LIME with RNN
