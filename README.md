@@ -1448,3 +1448,6 @@ https://askubuntu.com/questions/1032850/display-and-cursor-are-out-of-sync-on-ub
 
 https://towardsdatascience.com/precision-vs-recall-386cf9f89488
 -- a great explaination of precision and recall
+
+https://github.com/RobRomijnders/weight_uncertainty
+--neural networks in a bayesian context
