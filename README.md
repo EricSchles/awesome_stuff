@@ -1445,3 +1445,6 @@ https://github.com/marcotcr/lime/blob/master/doc/notebooks/Lime%20with%20Recurre
 
 https://askubuntu.com/questions/1032850/display-and-cursor-are-out-of-sync-on-ubuntu-18-04-tablet
 -- stop screen flips on ubuntu
+
+https://towardsdatascience.com/precision-vs-recall-386cf9f89488
+-- a great explaination of precision and recall
