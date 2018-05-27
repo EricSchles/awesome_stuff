@@ -1442,3 +1442,6 @@ https://opendatascience.com/lime-can-make-you-better-at-machine-learning/?utm_co
 
 https://github.com/marcotcr/lime/blob/master/doc/notebooks/Lime%20with%20Recurrent%20Neural%20Networks.ipynb
 -- LIME with RNN
+
+https://askubuntu.com/questions/1032850/display-and-cursor-are-out-of-sync-on-ubuntu-18-04-tablet
+-- stop screen flips on ubuntu
