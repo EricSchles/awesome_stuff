@@ -1457,3 +1457,6 @@ https://stackoverflow.com/questions/23415500/pandas-plotting-a-stacked-bar-chart
 
 https://stackoverflow.com/questions/33271098/python-get-a-frequency-count-based-on-two-columns-variables-in-pandas-datafra
 -- get frequency counts across multiple rows pandas
+
+https://www.kdnuggets.com/2018/05/10-more-free-must-read-books-for-machine-learning-and-data-science.html
+-- free data science books!
