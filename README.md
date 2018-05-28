@@ -1451,3 +1451,6 @@ https://towardsdatascience.com/precision-vs-recall-386cf9f89488
 
 https://github.com/RobRomijnders/weight_uncertainty
 --neural networks in a bayesian context
+
+https://stackoverflow.com/questions/23415500/pandas-plotting-a-stacked-bar-chart
+-- how to make a stacked bar chart, the easy way.
