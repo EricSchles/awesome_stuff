@@ -1460,3 +1460,6 @@ https://stackoverflow.com/questions/33271098/python-get-a-frequency-count-based-
 
 https://www.kdnuggets.com/2018/05/10-more-free-must-read-books-for-machine-learning-and-data-science.html
 -- free data science books!
+
+http://pynash.org/2013/02/12/proxy-objects/
+-- proxies in flask, turns out request object is a proxy.
