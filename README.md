@@ -1454,3 +1454,6 @@ https://github.com/RobRomijnders/weight_uncertainty
 
 https://stackoverflow.com/questions/23415500/pandas-plotting-a-stacked-bar-chart
 -- how to make a stacked bar chart, the easy way.
+
+https://stackoverflow.com/questions/33271098/python-get-a-frequency-count-based-on-two-columns-variables-in-pandas-datafra
+-- get frequency counts across multiple rows pandas
