@@ -1463,3 +1463,9 @@ https://www.kdnuggets.com/2018/05/10-more-free-must-read-books-for-machine-learn
 
 http://pynash.org/2013/02/12/proxy-objects/
 -- proxies in flask, turns out request object is a proxy.
+
+https://en.wikipedia.org/wiki/Mutual_information
+-- a great intro to mutual information
+
+https://en.wikipedia.org/wiki/Entropy_(information_theory)
+-- a great intro to entropy 
