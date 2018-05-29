@@ -1469,3 +1469,6 @@ https://en.wikipedia.org/wiki/Mutual_information
 
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
 -- a great intro to entropy 
+
+https://blog.google/topics/machine-learning/introducing-machine-learning-practica/
+--Keras deep learning course!!!!
