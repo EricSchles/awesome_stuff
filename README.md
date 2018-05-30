@@ -1472,3 +1472,6 @@ https://en.wikipedia.org/wiki/Entropy_(information_theory)
 
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/
 --Keras deep learning course!!!!
+
+https://pypi.org/project/opencv-python/
+-- opencv prebuilt binaries (why would you install from source)
