@@ -1475,3 +1475,6 @@ https://blog.google/topics/machine-learning/introducing-machine-learning-practic
 
 https://pypi.org/project/opencv-python/
 -- opencv prebuilt binaries (why would you install from source)
+
+https://github.com/slundberg/shap
+--unified model interpretability package for classification
