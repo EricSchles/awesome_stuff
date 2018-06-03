@@ -1478,3 +1478,6 @@ https://pypi.org/project/opencv-python/
 
 https://github.com/slundberg/shap
 --unified model interpretability package for classification
+
+https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
+-- NLP cutting edge
