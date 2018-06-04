@@ -1481,3 +1481,6 @@ https://github.com/slundberg/shap
 
 https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
 -- NLP cutting edge
+
+https://github.com/NervanaSystems/nlp-architect
+-- NLP repo for NLU
