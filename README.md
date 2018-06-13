@@ -1484,3 +1484,6 @@ https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
 
 https://github.com/NervanaSystems/nlp-architect
 -- NLP repo for NLU
+
+https://lwn.net/Archives/
+-- updates on source of some pretty important stuff
