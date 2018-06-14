@@ -1487,3 +1487,6 @@ https://github.com/NervanaSystems/nlp-architect
 
 https://lwn.net/Archives/
 -- updates on source of some pretty important stuff
+
+https://github.com/plasticityai/magnitude
+-- a very interesting embedding library with lots of utilities
