@@ -1490,3 +1490,6 @@ https://lwn.net/Archives/
 
 https://github.com/plasticityai/magnitude
 -- a very interesting embedding library with lots of utilities
+
+https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html
+-- ML orchestration
