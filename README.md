@@ -1493,3 +1493,6 @@ https://github.com/plasticityai/magnitude
 
 https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html
 -- ML orchestration
+
+https://www.youtube.com/watch?v=jvwfDdgg93E
+--property based testing, amazing.
