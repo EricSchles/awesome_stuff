@@ -1499,3 +1499,6 @@ https://www.youtube.com/watch?v=jvwfDdgg93E
 
 https://www.python-course.eu/index.php
 -- an advanced python class
+
+http://people.math.carleton.ca/~kcheung/math/notes/MATH1107/index.html
+-- a nice course on linear algebra, very high level
