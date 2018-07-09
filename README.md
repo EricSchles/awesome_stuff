@@ -1505,3 +1505,6 @@ http://people.math.carleton.ca/~kcheung/math/notes/MATH1107/index.html
 
 https://www.dataquest.io/blog/data-science-project-style-guide/?utm_source=twitter&utm_medium=social%20share&utm_content=ds%20project%20style%20guide
 --a great style guide for writing good data science analysis
+
+https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324
+-- automatic coding without humans
