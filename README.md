@@ -1502,3 +1502,6 @@ https://www.python-course.eu/index.php
 
 http://people.math.carleton.ca/~kcheung/math/notes/MATH1107/index.html
 -- a nice course on linear algebra, very high level
+
+https://www.dataquest.io/blog/data-science-project-style-guide/?utm_source=twitter&utm_medium=social%20share&utm_content=ds%20project%20style%20guide
+--a great style guide for writing good data science analysis
