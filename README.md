@@ -1508,3 +1508,6 @@ https://www.dataquest.io/blog/data-science-project-style-guide/?utm_source=twitt
 
 https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324
 -- automatic coding without humans
+
+https://github.com/gboeing/osmnx-examples/blob/master/notebooks/17-street-network-orientations.ipynb
+-- really cool geospatial viz
